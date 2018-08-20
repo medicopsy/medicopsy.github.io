@@ -1,0 +1,20 @@
+.container
+  .jumbotron.p-3.p-md-5.text-white.rounded.bg-dark
+    .col-md-6.px-0
+      h1.display-4.font-italic Fondée en 1852
+      p.lead.my-3
+        | La Société Médico-Psychologique est la plus ancienne société française de psychiatrie et l'une des premières dans le monde.
+      p.lead.mb-0
+        a.text-white.font-weight-bold(href='/a-propos') Lire la suite
+  .row.mb-2
+    for seance, slug in public.seances._data
+      .col-md-6
+        .card.flex-md-row.mb-4.shadow-sm.h-md-250
+          .card-body.d-flex.flex-column.align-items-start
+            strong.d-inline-block.mb-2.text-success Evénement
+            h3.mb-0
+              a.text-dark(href="/seances/#{ slug }")= seance.title
+            .mb-1.text-muted= seance.date
+            p.card-text.mb-auto
+              | This is a wider card with supporting text below as a natural lead-in to additional content.
+            a(href="/seances/#{ slug }") Lire la suite

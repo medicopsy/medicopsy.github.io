@@ -1,0 +1,40 @@
+doctype html
+html(lang='fr', dir="ltr")
+  head
+    meta(charset="utf-8")
+    link(href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet")
+    link(rel='shortcut icon', type='image/x-icon', href='./favicon.ico')
+    title= title
+    meta(name="description" content="#{ description }")
+    style(type='text/css', media='screen').
+      body {
+      font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+      color: #222;
+      background: #fff;
+      text-align: center;
+      line-height: 1em;
+      padding: 20px 0 0 0;
+      }
+      h1, h2 {
+      font-size: 13px;
+      }
+      h1 {
+      font-weight: bold;
+      font-size: 26px;
+      }
+      p {
+      font-size: 13px;
+      font-style: normal;
+      color: #666;
+      letter-spacing: -0.01em;
+      }
+      a {
+      border-bottom: 1px solid #ccc;
+      color: #222;
+      text-decoration: none;
+      }
+      a:hover {
+      border-bottom: 1px solid #222;
+      }
+  body
+    != yield
