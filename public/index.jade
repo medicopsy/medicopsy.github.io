@@ -1,0 +1,15 @@
+.jumbotron
+  .container
+    h1 Société Médico-Psychologie
+    p La SMP est la plus ancienne société française de psychiatrie et l'une des premières dans le monde.
+    p
+      a.btn.btn-primary.btn-lg(href='#', role='button') A propos
+.container
+  .row
+    .col-md-8
+      for seance, slug in public.seances._data
+        .panel.panel-default
+          .panel-heading
+            h3.panel-title: a(href="/seances/#{ slug }")= seance.title
+          .panel-body
+            | Panel content
