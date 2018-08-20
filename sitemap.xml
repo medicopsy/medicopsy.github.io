@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://medicopsy.com/</loc>
+    <loc>https://medicopsy.com</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://medicopsy.com/a-propos/</loc>
+    <loc>https://medicopsy.com/a-propos</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://medicopsy.com/contact/</loc>
+    <loc>https://medicopsy.com/contact</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://medicopsy.com/seances/</loc>
+    <loc>https://medicopsy.com/seances</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
