@@ -6,7 +6,8 @@
         | La Société Médico-Psychologique est la plus ancienne société française de psychiatrie et l'une des premières dans le monde.
       p.lead.mb-0
         a.text-white.font-weight-bold(href='/a-propos') Lire la suite
-  .row.mb-2
+  h2.blog-post-title.mb-3 Nos séances
+  .row.mb-2  
     for seance, slug in public.seances._data
       .col-md-6
         .card.flex-md-row.mb-4.shadow-sm.h-md-250
@@ -16,4 +17,4 @@
               a.text-dark(href="/seances/#{ slug }")= seance.title
             .mb-1.text-muted= seance.date
             p.card-text.mb-auto= seance.description
-            a(href="/seances/#{ slug }") Lire la suite
+            a(href="/seances/#{ slug }") En savoir plus
