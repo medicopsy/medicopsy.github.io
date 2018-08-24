@@ -9,4 +9,4 @@ main.container(role='main')
       ul.list-seances
         for seance, slug in public.seances._data
           li 
-            a(href="/seances/#{ slug }")= seance.title
+            a(href="/seances/#{ slug }" title=seance.title)= seance.title

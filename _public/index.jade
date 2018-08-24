@@ -5,7 +5,7 @@
       p.lead.my-3
         | La Société Médico-Psychologique est la plus ancienne société française de psychiatrie et l'une des premières dans le monde.
       p.lead.mb-0
-        a.text-white.font-weight-bold(href='/a-propos') Lire la suite
+        a.text-white.font-weight-bold(href='/a-propos' title="A propos de la SMP") Lire la suite
   h2.blog-post-title.mb-3 Nos séances
   .row.mb-2  
     for seance, slug in public.seances._data
@@ -14,7 +14,7 @@
           .card-body.d-flex.flex-column.align-items-start
             strong.d-inline-block.mb-2.text-success Evénement
             h3.mb-0
-              a.text-dark(href="/seances/#{ slug }")= seance.title
+              a.text-dark(href="/seances/#{ slug }" title=seance.title)= seance.title
             .mb-1.text-muted= seance.date
             p.card-text.mb-auto= seance.description
-            a(href="/seances/#{ slug }") En savoir plus
+            a(href="/seances/#{ slug }" title=seance.title) En savoir plus
