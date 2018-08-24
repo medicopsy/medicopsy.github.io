@@ -1,6 +1,6 @@
 doctype html
 html(lang='fr', dir="ltr")
-  head
+  head(prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#")
     meta(charset="utf-8")
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     link(href='https://fonts.gstatic.com' rel='preconnect' crossorigin)
@@ -11,8 +11,13 @@ html(lang='fr', dir="ltr")
     link(href='//maxcdn.bootstrapcdn.com' rel='dns-prefetch')
     meta(name="google-site-verification" content="WDcFFZ7Og3sHra_nCIg0qXVOfJr-q9D-ZtpJ99D-zW0")
     meta(name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no")
-    title= title
+    title #{ title }
     meta(name="description" content="#{ description }")
+    meta(property='og:site_name', content="Société Médico-Psychologique")
+    meta(property='og:type', content='website')
+    meta(property='og:title', content="#{ title }")
+    meta(property='og:description', content='#{ description }')
+    meta(property='og:url', content='https://medicopsy.com#{ path }')
     link(rel="stylesheet" href="css/bootstrap.min.css")
     link(rel="stylesheet" href="css/template.css")
     link(rel="stylesheet" href="css/main.css")
