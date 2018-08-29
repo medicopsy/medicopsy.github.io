@@ -6,6 +6,24 @@
         | La Société Médico-Psychologique est la plus ancienne société française de psychiatrie et l'une des premières dans le monde.
       p.lead.mb-0
         a.text-white.font-weight-bold(href='/a-propos' title="A propos de la SMP") Lire la suite
+  h2.blog-post-title.mb-3 A la Une
+  .row.mb-2
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm
+        .card-body.d-flex.flex-column.align-items-start
+          h3.mb-0
+            a.text-dark(href="/seances/" title="") Parrainage
+          .mb-1.text-muted Journée scientifique du 29 septembre 2018
+          p.card-text.mb-auto Jean Delay aujourd'hui : pour une éthique du décloisonnement entre psychanalyse, psychiatrie et neurosciences.
+          a.mt-2(href="https://www.psychanalysepsychiatrieneurosciences.com/" target="_blank" title="") Se rendre sur le site
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm
+        .card-body.d-flex.flex-column.align-items-start
+          h3.mb-0
+            a.text-dark(href="/seances/" title="") Partenariats
+          a.mt-2(href="https://www.psychanalysepsychiatrieneurosciences.com/" target="_blank" title="Congrès de l'Encéphale" rel="noopener") Congrès de l'Encéphale
+          a.mt-2(href="https://www.psychanalysepsychiatrieneurosciences.com/" target="_blank" title="Congrès Français de Psychiatrie" rel="noopener") Congrès Français de Psychiatrie
+          a.mt-2(href="https://www.psychanalysepsychiatrieneurosciences.com/" target="_blank" title="Association pour l'Enseignement de la Sémiologie Psychiatrique" rel="noopener") Association pour l'Enseignement de la Sémiologie Psychiatrique
   h2.blog-post-title.mb-3 Nos séances
   .row.mb-2  
     for seance, slug in public.seances._data
