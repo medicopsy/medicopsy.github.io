@@ -14,6 +14,11 @@
     "description": "Contacter la Société Médico-Psychologique, la plus ancienne société française de psychiatrie et l'une des premières dans le monde.",
     "path": "/contact"
   },
+  "conseil-administration": {
+    "title": "Société Médico-Psychologique - Conseil d'administration",
+    "description": "Le conseil d'administration de la SMP est constitué des membres du bureau, des deux derniers présidents et de membres élus en assemblée générale.",
+    "path": "/conseil-administration"
+  },
   "404": {
     "title": "Page introuvable",
     "layout": "_error-page"
