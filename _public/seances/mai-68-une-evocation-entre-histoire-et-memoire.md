@@ -6,7 +6,7 @@ Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker
 Lundi 17 décembre 2018, 9h – 17h
 
 ## Coordination
-Jean-Arthur Micoulaud-Franchi
+Docteur Marc Schweitzer
 
 ## Agenda
 
