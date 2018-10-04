@@ -5,6 +5,9 @@ Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker
 ## Horaires
 Lundi 17 décembre 2018, 9h – 17h
 
+## Coordination
+Jean-Arthur Micoulaud-Franchi
+
 ## Agenda
 
 1. Marc SCHWEITZER (Paris) – Introduction de la séance.
