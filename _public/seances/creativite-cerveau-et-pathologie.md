@@ -3,7 +3,7 @@ Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker
 1, rue Cabanis – 75014 Paris
 
 ## Horaires
-Lundi 24 septembre 2018, 14 heures – 17 heures
+Lundi 24 septembre 2018, 14h – 17h
 
 ## Agenda
 1. Jean-Pierre LUAUTÉ (Romans) – Présentation des travaux.
