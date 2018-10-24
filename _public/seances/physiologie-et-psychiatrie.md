@@ -3,7 +3,7 @@ Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker
 1, rue Cabanis – 75014 Paris
 
 ## Horaires
-Lundi 22 octobre 2018, 9h30 – 17 heures
+Lundi 22 octobre 2018, 9h30 – 17h
 
 ## Coordination
 Jean-Arthur Micoulaud-Franchi
