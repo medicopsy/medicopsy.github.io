@@ -14,7 +14,7 @@ Catherine Jousselme, Sylvie Vermeersch
 
 2. Nicolas GEORGIEFF (Bron, CH le Vinatier) – Neurosciences et psychopathologie : le regard du pédopsychiatre.
 
-3. Mathieu GARCIA, Emma ROUCHY, Eric MEYER, Grégory MICHEL (Bordeaux, Inserm U 1219) – De la prévention précoce des conduites antisociales, agressives et délictueuseschez l’enfant et l’adolescent : une revue systématique des programmes d’intervention.
+3. Mathieu GARCIA, Emma ROUCHY, Eric MEYER, Grégory MICHEL (Bordeaux, Inserm U 1219) – De la prévention précoce des conduites antisociales, agressives et délictueuses chez l’enfant et l’adolescent : une revue systématique des programmes d’intervention.
 
 4. Benjamin PETROVIC (Gentilly, Fondation Vallée) – Pédopsychiatrie de liaison en maternité : de l’inquiétude à la préoccupation maternelle primaire.
 
