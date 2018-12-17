@@ -7,12 +7,7 @@
       p.lead.mb-0
         a.text-white.font-weight-bold(href='/a-propos' title="A propos de la SMP") Lire la suite
   h2.blog-post-title.mb-3 A la Une
-  .row.mb-2
-    .col-md-6
-      .card.flex-md-row.mb-4.shadow-sm
-        .card-body.d-flex.flex-column.align-items-start
-          h3.mb-0 Annonces
-          a.mt-2(href="https://centre-ressource-rehabilitation.org/conferences-de-rehabilitation-programme-2018-2019" target="_blank" title="Réhabilitation psychosociale et remédiation cognitive") Conférences de réhabilitation : Programme 2018-2019
+  .row.mb-4
     .col-md-6
       .card.flex-md-row.mb-4.shadow-sm
         .card-body.d-flex.flex-column.align-items-start
@@ -20,7 +15,60 @@
           a.mt-2(href="http://www.encephale.com/Congres/Congres-de-l-Encephale-2019-17e-edition" target="_blank" title="Congrès de l'Encéphale" rel="noopener") Congrès de l'Encéphale
           a.mt-2(href="https://www.congresfrancaispsychiatrie.org/" target="_blank" title="Congrès Français de Psychiatrie" rel="noopener") Congrès Français de Psychiatrie
           a.mt-2(href="http://www.asso-aesp.fr/" target="_blank" title="Association pour l'Enseignement de la Sémiologie Psychiatrique" rel="noopener") Association pour l'Enseignement de la Sémiologie Psychiatrique
-  h2.blog-post-title.mb-3 Nos séances
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm
+        .card-body.d-flex.flex-column.align-items-start
+          h3.mb-0 Annonces
+          a.mt-2(href="https://centre-ressource-rehabilitation.org/conferences-de-rehabilitation-programme-2018-2019" target="_blank" title="Réhabilitation psychosociale et remédiation cognitive") Conférences de réhabilitation : Programme 2018-2019
+.container.bg-light.pl-4.pr-4.pt-2.pb-2.mb-4
+    h2.blog-post-title.mb-3 Séances 2019
+    .row
+      .col-md-6
+        ul.list-seances
+          li
+            span 
+              strong 28 janvier 2019 : 
+              | Assemblée générale et communications libres
+          li 
+            span 
+              strong 25 février 2019 : 
+              | Séance thématique : Intestin, cerveau et psychisme. Coordonnée par Jean Pierre Luauté
+          li 
+            span 
+              strong 18 mars 2019 : 
+              | Communications libres
+          li 
+            span 
+              strong 29 avril 2019 : 
+              | Séance thématique : Psychiatrie légale (coordonnée par Thierry Pham)
+          li 
+            span 
+              strong 27 mai 2019 : 
+              | Communications libres
+          li
+            span 
+              strong 17 juin 2019 : 
+              | Séance du président : Pathologie et Art thérapie
+      .col-md-6
+        ul.list-seances
+          li 
+            span 
+              strong 23 septembre : 
+              | Séance thématique sur l’Expertise, coordonnée par Marc Schweitzer
+          li 
+            span 
+              strong 21 octobre 2019 : 
+              | Séance thématique : Apports et lacunes de la folie à l’âge classique, de Michel Foucault ( 1976), coordination Marc Masson
+          li 
+            span 
+              strong 25 novembre 2019 : 
+              | Séance thématique sur la Pédopsychiatrie
+          li 
+            span 
+              strong 16 décembre 2019 : 
+              | Assemblée générale et communications libres
+.container
+  h2.blog-post-title.mb-3 Séances 2018
   .row.mb-2  
     for seance, slug in public.seances._data
       .col-md-6
