@@ -38,9 +38,17 @@
   "assemblee-generale-janvier-2019": {
     "layout": "_post-layout",
     "title": "Assemblée Générale et communications libres",
-    "description": "installation du nouveau bureau, allocution du président sortant, allocution du nouveau président, communication du nouveau secrétaire général",
+    "description": "Installation du nouveau bureau, allocution du président sortant, allocution du nouveau président, communication du nouveau secrétaire général",
     "path": "/assemblee-generale-janvier-2019",
     "date": "28 janvier 2019",
     "presidence": "Dr Marc Masson, Pr Laurent Schmitt"
+  },
+  "intestin-cerveau-et-psychisme": {
+    "layout": "_post-layout",
+    "title": "Séance thématique : Intestin, cerveau et psychisme",
+    "description": "L'origine intestinale de la folie, le système nerveux végétatif, microbiote et maladies mentales, le traitement de la maladie de Crohn...",
+    "path": "/intestin-cerveau-et-psychisme",
+    "date": "25 février 2019",
+    "presidence": "Jean-Pierre Luauté"
   }
 }
