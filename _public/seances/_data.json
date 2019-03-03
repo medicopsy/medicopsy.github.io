@@ -50,5 +50,13 @@
     "path": "/intestin-cerveau-et-psychisme",
     "date": "25 février 2019",
     "presidence": "Jean-Pierre Luauté"
+  },
+  "mars-2019-communications-libres": {
+    "layout": "_post-layout",
+    "title": "Mars 2019 : Communications Libres",
+    "description": "Communications libres du mois de mars 2019, organisées par la Société Médico-Psychologique.",
+    "path": "/mars-2019-communications-libres",
+    "date": "18 mars 2019",
+    "presidence": "Pr Laurent Schmitt "
   }
 }
