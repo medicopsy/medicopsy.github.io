@@ -44,4 +44,12 @@
     <loc>https://medicopsy.com/seances/intestin-cerveau-et-psychisme</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://medicopsy.com/seances/mars-2019-communications-libres</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/assets/docs/convergences-technologiques.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
