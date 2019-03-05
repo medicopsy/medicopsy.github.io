@@ -57,6 +57,13 @@
     "description": "Communications libres du mois de mars 2019, organisées par la Société Médico-Psychologique.",
     "path": "/mars-2019-communications-libres",
     "date": "18 mars 2019",
-    "presidence": "Pr Laurent Schmitt "
+    "presidence": "Pr Laurent Schmitt"
+  },
+  "psychiatrie-legale": {
+    "layout": "_post-layout",
+    "title": "Mars 2019 : Communications Libres",
+    "description": "Journée psychiatrie légale organisée par la Société Médico-PSychologique.",
+    "path": "/psychiatrie-legale",
+    "date": "29 avril 2019"
   }
 }
