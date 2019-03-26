@@ -26,4 +26,4 @@ Lundi 18 mars 2019, 14h – 17h
 
 **Entrée libre pour tous les personnels de santé, sans inscription**
 
-Communication du secrétaire général, le Dr François Petitjean
+Communication du secrétaire général, le Dr François Petitjean.
