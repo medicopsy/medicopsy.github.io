@@ -1,11 +1,7 @@
 .container
-  .jumbotron.p-3.p-md-5.text-white.rounded.bg-dark
-    .col-md-6.px-0
-      h1.display-4.font-italic Fondée en 1852
-      p.lead.my-3
-        | La Société Médico-Psychologique est la plus ancienne société française de psychiatrie et l'une des premières dans le monde.
-      p.lead.mb-0
-        a.text-white.font-weight-bold(href='/a-propos' title="A propos de la SMP") Lire la suite
+  .video.mt-2.mb-3
+    iframe(width='560', height='349', src='https://www.youtube.com/embed/c0Qazwwl7w0?autoplay=1;modestbranding=1;rel=0', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
+.container
   h2.blog-post-title.mb-3 A la Une
   .row.mb-4
     .col-md-6
@@ -21,55 +17,104 @@
           h3.mb-0 Annonces
           a.mt-2(href="https://centre-ressource-rehabilitation.org/conferences-de-rehabilitation-programme-2018-2019" target="_blank" title="Réhabilitation psychosociale et remédiation cognitive") Conférences de réhabilitation : Programme 2018-2019
           a.mt-2(href="./assets/docs/convergences-technologiques.pdf" target="_blank") Convergences technologiques, santé mentale et personnes « vulnérables »
-.container.bg-light.pl-4.pr-4.pt-2.pb-2.mb-4
-    h2.blog-post-title.mb-3 Séances 2019
-    .row
-      .col-md-6
-        ul.list-seances
-          li
-            a(href="/seances/assemblee-generale-janvier-2019" title="Assemblée Générale janvier 2019") 28 janvier 2019 : Assemblée générale et communications libres
-          li 
-            a(href="/seances/intestin-cerveau-et-psychisme" title="Séance thématique : Intestin, cerveau et psychisme") 25 février 2019 : Séance thématique : Intestin, cerveau et psychisme. Coordonnée par Jean Pierre Luauté
-          li 
-            a(href="/seances/mars-2019-communications-libres" title="Communications Libres du 18 mars 2019") 18 mars 2019 : Communications libres
-          li 
-            a(href="/seances/psychiatrie-legale" title="Séance thématique : Psychiatrie légale (coordonnée par Thierry Pham)") 29 avril 2019 : Séance thématique : Psychiatrie légale. Coordonnée par Thierry Pham
-          li 
-            span 
-              strong 27 mai 2019 : 
-              | Communications libres
-          li
-            span 
-              strong 17 juin 2019 : 
-              | Séance du président : Pathologie et Art thérapie
-      .col-md-6
-        ul.list-seances
-          li 
-            span 
-              strong 23 septembre 2019 : 
-              | Séance thématique : l’Expertise. Coordonnée par Marc Schweitzer
-          li 
-            span 
-              strong 21 octobre 2019 : 
-              | Séance d'hommage au Professeur Marc Bourgeois. Coordonnée par Marc Masson
-          li 
-            span 
-              strong 25 novembre 2019 : 
-              | Séance thématique : la Pédopsychiatrie
-          li 
-            span 
-              strong 16 décembre 2019 : 
-              | Assemblée générale et communications libres
+.container
+  h2.blog-post-title.mb-3 Séances 2019
+  .row.mb-2  
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/assemblee-generale-janvier-2019" title="Assemblée Générale janvier 2019") Assemblée générale et communications libres
+          .mb-1.text-muted Lundi 28 janvier 2019
+          p.card-text.mb-auto Installation du nouveau bureau, allocution du président sortant, allocution du nouveau président, communication du nouveau secrétaire général.
+          a(href="/seances/assemblee-generale-janvier-2019" title="Assemblée Générale janvier 2019") En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/intestin-cerveau-et-psychisme" title="Séance thématique : Intestin, cerveau et psychisme") Séance thématique : Intestin, cerveau et psychisme
+          .mb-1.text-muted Lundi 25 février 2019
+          p.card-text.mb-auto L'origine intestinale de la folie, le système nerveux végétatif, microbiote et maladies mentales...
+          a(href="/seances/intestin-cerveau-et-psychisme" title="") En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/mars-2019-communications-libres" title="Communications Libres du 18 mars 2019") Communications libres
+          .mb-1.text-muted Lundi 18 mars 2019
+          p.card-text.mb-auto Communications libres du mois de mars 2019, organisées par la Société Médico-Psychologique.
+          a(href="/seances/mars-2019-communications-libres" title="Communications Libres du 18 mars 2019") En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/psychiatrie-legale" title="Séance thématique : Psychiatrie légale") Séance thématique : Psychiatrie légale
+          .mb-1.text-muted Lundi 29 avril 2019
+          p.card-text.mb-auto Journée psychiatrie légale organisée par la Société Médico-Psychologique.
+          a(href="/seances/psychiatrie-legale" title="Séance thématique : Psychiatrie légale (coordonnée par Thierry Pham)") En savoir plus
+.container
+  .blog-post
+    h2.blog-post-title À venir
+    p.blog-post-meta Évènements prévus courants 2019 :
+    ul
+      li
+        strong 27 mai 2019 :
+        |  Communications libres
+      li
+        strong 17 juin 2019 :
+        |  Séance du président : Pathologie et Art thérapie
+      li
+        strong 23 septembre 2019 :
+        |  Séance thématique : l’Expertise. Coordonnée par Marc Schweitzer
+      li
+        strong 21 octobre 2019 :
+        |  Séance d'hommage au Professeur Marc Bourgeois. Coordonnée par Marc Masson
+      li
+        strong 25 novembre 2019 :
+        |  Séance thématique : la Pédopsychiatrie
+      li
+        strong 16 décembre 2019 :
+        |  Assemblée générale et communications libres
 .container
   h2.blog-post-title.mb-3 Séances 2018
   .row.mb-2  
-    for seance, slug in public.seances._data
-      .col-md-6
-        .card.flex-md-row.mb-4.shadow-sm.h-md-250
-          .card-body.d-flex.flex-column.align-items-start
-            strong.d-inline-block.mb-2.text-success Evénement
-            h3.mb-0
-              a.text-dark(href="/seances/#{ slug }" title=seance.title)= seance.title
-            .mb-1.text-muted= seance.date
-            p.card-text.mb-auto= seance.description
-            a(href="/seances/#{ slug }" title=seance.title) En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/mai-68-une-evocation-entre-histoire-et-memoire" title="Mai 68 - Une évocation entre histoire et mémoire") Mai 68 - Une évocation entre histoire et mémoire
+          .mb-1.text-muted 17 décembre 2018
+          p.card-text.mb-auto Focus sur Mai 68. Sujets abordés : la neuropsychiatrie, l'anté 68, la santé mentale, l'antipsychiatrie...
+          a(href="/seances/mai-68-une-evocation-entre-histoire-et-memoire" title="Mai 68 - Une évocation entre histoire et mémoire") En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/soins-precoces-et-prevention-en-pedopsychiatrie" title="Soins précoces et prévention en pédopsychiatrie") Soins précoces et prévention en pédopsychiatrie
+          .mb-1.text-muted 26 novembre 2018
+          p.card-text.mb-auto Interventions sur la pédopsychiatrie, les neurosciences, le deuil...
+          a(href="/seances/soins-precoces-et-prevention-en-pedopsychiatrie" title="Soins précoces et prévention en pédopsychiatrie") En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/physiologie-et-psychiatrie" title="Physiologie et psychiatrie") Physiologie et psychiatrie
+          .mb-1.text-muted 22 octobre 2018
+          p.card-text.mb-auto Discussion autour de la neurophysiologie, les neurosciences, les mécanismes psychopathologiques et les symptômes psychiatriques.
+          a(href="/seances/physiologie-et-psychiatrie" title="Physiologie et psychiatrie") En savoir plus
+    .col-md-6
+      .card.flex-md-row.mb-4.shadow-sm.h-md-250
+        .card-body.d-flex.flex-column.align-items-start
+          strong.d-inline-block.mb-2.text-success Évènement
+          h3.mb-0
+            a.text-dark(href="/seances/creativite-cerveau-et-pathologie" title="Créativité, cerveau et pathologie") Créativité, cerveau et pathologie
+          .mb-1.text-muted 24 septembre 2018
+          p.card-text.mb-auto Séance sur la créativité et schizophrénie, les neurosciences, et les troubles bipolaires.
+          a(href="/seances/creativite-cerveau-et-pathologie" title="Créativité, cerveau et pathologie") En savoir plus
