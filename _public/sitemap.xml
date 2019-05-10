@@ -56,4 +56,12 @@
     <loc>https://medicopsy.com/seances/psychiatrie-legale</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://medicopsy.com/assets/docs/apa-annual-meeting-san-francisco-2019.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/seances/mai-2019-communications-libres</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
