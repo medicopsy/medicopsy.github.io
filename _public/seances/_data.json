@@ -74,5 +74,13 @@
     "path": "/mai-2019-communications-libres",
     "date": "27 mai 2019",
     "presidence": "Pr Laurent Schmitt"
+  },
+  "pathologie-et-art-therapie": {
+    "layout": "_post-layout",
+    "title": "Pathologie et Art-Thérapie",
+    "description": "Discussions sur l'art-thérapie et la médiation artistique.",
+    "path": "/pathologie-et-art-therapie",
+    "date": "17 juin 2019",
+    "presidence": "Pr Laurent Schmitt"
   }
 }

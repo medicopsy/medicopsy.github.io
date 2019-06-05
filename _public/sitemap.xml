@@ -64,4 +64,8 @@
     <loc>https://medicopsy.com/seances/mai-2019-communications-libres</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://medicopsy.com/seances/pathologie-et-art-therapie</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
