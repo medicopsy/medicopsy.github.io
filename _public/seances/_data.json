@@ -82,5 +82,13 @@
     "path": "/pathologie-et-art-therapie",
     "date": "17 juin 2019",
     "presidence": "Pr Laurent Schmitt"
+  },
+  "seance-hommage-professeur-marc-bourgeois": {
+    "layout": "_post-layout",
+    "title": "Séance d'hommage au Professeur Marc Bourgeois",
+    "description": "Discussions sur les contributions du Professeur Marc Bourgeois dans le domaine de la psychiatrie",
+    "path": "/seance-hommage-professeur-marc-bourgeois",
+    "date": "21 octobre 2019",
+    "presidence": "Pr Laurent Schmitt, Pr Jean-François Allilaire, Dr Marc Masson (Garches)"
   }
 }

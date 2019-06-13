@@ -68,4 +68,8 @@
     <loc>https://medicopsy.com/seances/pathologie-et-art-therapie</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://medicopsy.com/seances/seance-hommage-professeur-marc-bourgeois</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
