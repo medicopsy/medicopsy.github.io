@@ -32,4 +32,4 @@ Lundi 17 juin 2019, 9h30 – 17h
 
 8. Hugues SCHARBACH (Nantes) – De la psychopathologie de l'expression à l'Art-thérapie.
 
-Entrée libre, inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr
+**Entrée libre, inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr**

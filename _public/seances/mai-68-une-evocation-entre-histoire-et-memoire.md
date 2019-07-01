@@ -36,6 +36,4 @@ Docteur Marc Schweitzer
 
 12. François PETITJEAN (Paris) – La santé mentale : une nouvelle antipsychiatrie ? Aimé CHARLES-NICOLAS – Clôture de la journée.
 
-**Entrée libre pour tous les personnels de santé, sans inscription**
-
-Contact: jacqueline_parant@orange.fr ; schweitzer.mg@free.fr
+**Entrée libre pour tous les personnels de santé, sans inscription. Contact: jacqueline_parant@orange.fr ; schweitzer.mg@free.fr**

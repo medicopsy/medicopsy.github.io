@@ -5,9 +5,6 @@ Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker
 ## Horaires
 Lundi 22 octobre 2018, 9h30 – 17h
 
-## Coordination
-Jean-Arthur Micoulaud-Franchi
-
 ## Communications
 9h30 – Marc MASSON et Jean-Arthur Micoulaud-Franchi : Introduction
 

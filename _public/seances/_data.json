@@ -24,7 +24,7 @@
     "path": "/physiologie-et-psychiatrie",
     "date": "22 octobre 2018",
     "author": "Communication de la secrétaire générale, le Dr Sylvie Vermeersch",
-    "presidence": "Docteur Marc Masson, président"
+    "presidence": "Docteur Marc Masson, président, Jean-Arthur Micoulaud-Franchi"
   },
   "creativite-cerveau-et-pathologie": {
     "layout": "_post-layout",
@@ -90,5 +90,13 @@
     "path": "/seance-hommage-professeur-marc-bourgeois",
     "date": "21 octobre 2019",
     "presidence": "Pr Laurent Schmitt, Pr Jean-François Allilaire, Dr Marc Masson (Garches)"
+  },
+  "les-psychiatres-et-lexpertise": {
+    "layout": "_post-layout",
+    "title": "Les psychiatres et l'expertise",
+    "description": "Quels liens entre objectifs et finalités de l’évaluation clinique ?",
+    "path": "/les-psychiatres-et-lexpertise",
+    "date": "23 septembre 2019",
+    "presidence": "Madame Sabine Foulon"
   }
 }
