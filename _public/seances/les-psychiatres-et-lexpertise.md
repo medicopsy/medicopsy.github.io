@@ -9,7 +9,7 @@ Lundi 23 septembre 2019, 9h30 - 17h
 Docteur Marc Schweitzer
 
 ## Présidence de la journée
-Madame Sabine FOULON, Présidente Honoraire de Cour d'Assises
+Madame Sabine Foulon, Présidente Honoraire de Cour d'Assises
 
 ## Agenda
 
