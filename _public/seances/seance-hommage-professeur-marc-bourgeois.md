@@ -19,7 +19,7 @@ Dr Marc Masson (Garches)
 
 3. Joël SWENDSEN (Bordeaux) – Marc Bourgeois et les philistins d’Amérique.
 
-4. Michaël BRUN (Bordeaux) – L’insight, cet inconnu.
+4. Michaël BRUN (Bordeaux) – l’insight et l’inconnu en soi.
 
 5. Valérie ADRIAN, Sébastien MACHEFAUX (Bordeaux, Paris) – Du transexualisme aux transidentités : la révolution du genre.
 
