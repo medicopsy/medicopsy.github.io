@@ -73,7 +73,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://medicopsy.com/seances/seance-hommage-professeur-marc-bourgeois</loc>
+    <loc>https://medicopsy.com/seances/octobre-2019</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/seances/violences-sexuelles-chez-les-mineurs</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

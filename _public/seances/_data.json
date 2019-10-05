@@ -98,5 +98,21 @@
     "path": "/les-psychiatres-et-lexpertise",
     "date": "23 septembre 2019",
     "presidence": "Madame Sabine Foulon"
+  },
+  "octobre-2019": {
+    "layout": "_post-layout",
+    "title": "Communications d'octobre 2019",
+    "description": "Élections de membres et communications.",
+    "path": "/octobre-2019",
+    "date": "21 octobre 2019",
+    "presidence": "Professeur Laurent Schmitt"
+  },
+  "violences-sexuelles-chez-les-mineurs": {
+    "layout": "_post-layout",
+    "title": "Violences sexuelles chez les mineurs",
+    "description": "Discussions sur le viol, la fantasie adolescente, les réseaux sociaux, la construction psychique...",
+    "path": "/violences-sexuelles-chez-les-mineurs",
+    "date": "25 novembre 2019",
+    "presidence": "Professeur Laurent Schmitt"
   }
 }
