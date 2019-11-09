@@ -41,7 +41,52 @@ html(lang='fr', dir="ltr")
     noscript
     iframe(src='https://www.googletagmanager.com/ns.html?id=GTM-NGXVJCW', style='display:none;visibility:hidden', width='0', height='0')
     != partial("/partials/_nav")
-    != yield
+    .container
+      .video.mt-2.mb-3
+        iframe(width='560', height='349', src='https://www.youtube.com/embed/sHiEBEqlfp4?autoplay=1;modestbranding=1;rel=0', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
+    .container
+      .row.mb-2
+        .col-md-6
+          .row.no-gutters.border.rounded.overflow-hidden.flex-md-row.mb-4.shadow-sm.h-md-250.position-relative
+            .col.p-4.d-flex.flex-column.position-static
+              strong.d-inline-block.mb-2.text-success Partenariats
+              h3 Nos sites partenaires
+              ul.mt-1
+                li
+                  a(href="http://www.encephale.com/Congres/Congres-de-l-Encephale-2019-17e-edition" target="_blank" title="Congrès de l'Encéphale" rel="noopener") Congrès de l'Encéphale
+                li
+                  a(href="https://www.congresfrancaispsychiatrie.org/" target="_blank" title="Congrès Français de Psychiatrie" rel="noopener") Congrès Français de Psychiatrie
+                li
+                  a(href="http://www.asso-aesp.fr/" target="_blank" title="Association pour l'Enseignement de la Sémiologie Psychiatrique" rel="noopener") Association pour l'Enseignement de la Sémiologie Psychiatrique
+            .col-auto.d-none.d-lg-block
+              svg.bd-placeholder-img(width='200', height='250', xmlns='http://www.w3.org/2000/svg', preserveAspectRatio='xMidYMid slice', focusable='false', role='img', aria-label='Placeholder: Thumbnail')
+                title Placeholder
+                rect(width='100%', height='100%', fill='#eee')
+        .col-md-6
+          .row.no-gutters.border.rounded.overflow-hidden.flex-md-row.mb-4.shadow-sm.h-md-250.position-relative
+            .col.p-4.d-flex.flex-column.position-static
+              strong.d-inline-block.mb-2.text-primary Annonces
+              h3 Les dernières nouvelles de la SMP
+              ul.mt-1
+                li 
+                  a(href="/assets/docs/conference-de-rehabilitation-20192020.pdf" target="_blank" title="Conférence de réhabilitation 2019-2020") Conférences de réhabilitation : Programme 2019-2020
+                li
+                  a(href="/assets/docs/diu-philosophie-de-la-psychiatrie.pdf" target="_blank" title="Diplôme Inter-Universitaire de Philosophie de la Psychiatrie") Diplôme Inter-Universitaire de Philosophie de la Psychiatrie
+            .col-auto.d-none.d-lg-block
+              svg.bd-placeholder-img(width='200', height='250', xmlns='http://www.w3.org/2000/svg', preserveAspectRatio='xMidYMid slice', focusable='false', role='img', aria-label='Placeholder: Thumbnail')
+                title Placeholder
+                rect(width='100%', height='100%', fill='#eee')
+    .container
+      .row.mb-2
+        .col-md-8
+          h2.pb-4.mb-4.font-italic.border-bottom Nos séances
+          != yield
+        aside.col-md-4
+          .p-4.mb-3.bg-light.rounded
+            h3 À Propos
+            p La Société Médico-Psychologique est la plus ancienne des sociétés françaises de psychiatrie et l’une des toutes premières dans le monde. Issue des Annales Médico-Psychologiques, elle fut fondée en 1847 par Jules Gabriel François Baillarger et fonctionne sans interruption depuis 1852.
+            p.mb-0
+              a(href="/a-propos" title="À propos de la SMP") En savoir plus
     != partial("/partials/_footer")
     script(src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
     integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous")

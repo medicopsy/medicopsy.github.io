@@ -2,22 +2,26 @@
   "index": {
     "title": "La Société Médico-Psychologique",
     "description": "Le champ d'étude de la SMP est consacré au psychisme humain et à ses troubles, à leur prévention et la recherche.",
-    "path": ""
+    "path": "",
+    "layout": "_layout"
   },
   "a-propos": {
     "title": "Société Médico-Psychologique | A propos",
     "description": "La SMP est composée de 600 membres environ : membres titulaires, honoraires, correspondants nationaux et associés étrangers. La plupart sont psychiatres et élus au scrutin secret par leurs pairs.",
-    "path": "/a-propos"
+    "path": "/a-propos",
+    "layout": "_subpage"
   },
   "contact": {
     "title": "Société Médico-Psychologique | Contact",
     "description": "Contacter la Société Médico-Psychologique, la plus ancienne société française de psychiatrie et l'une des premières dans le monde.",
-    "path": "/contact"
+    "path": "/contact",
+    "layout": "_subpage"
   },
   "conseil-administration": {
     "title": "Société Médico-Psychologique | Conseil d'administration",
     "description": "Le conseil d'administration de la SMP est constitué des membres du bureau, des deux derniers présidents et de membres élus en assemblée générale.",
-    "path": "/conseil-administration"
+    "path": "/conseil-administration",
+    "layout": "_subpage"
   },
   "404": {
     "title": "Page introuvable",

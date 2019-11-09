@@ -32,7 +32,14 @@ html(lang='fr', dir="ltr")
     noscript
     iframe(src='https://www.googletagmanager.com/ns.html?id=GTM-NGXVJCW', style='display:none;visibility:hidden', width='0', height='0')
     != partial("../partials/_nav")
-    != yield
+    main.container(role='main')
+      .row
+        .col-md-8.blog-main      
+          img.image-seances(src="../images/seance-placeholder-2.jpg")
+          h1.mt-3 Les séances de la SMP
+          p Le champ d’étude de la SMP est consacré au psychisme humain et à ses troubles, à leur prévention et la recherche ainsi qu’aux apports des disciplines connexes. Les grandes découvertes (notamment les premières publications sur les neuroleptiques) et les principaux courants de la connaissance psychiatrique française, voire internationale, sont issus de ses activités. Tous ses travaux sont colligés dans sa revue les Annales Médico-Psychologiques.
+          p La Société se réunit une fois par mois, de septembre à juin. Elle organise également chaque année une ou plusieurs séances solennelles thématiques, ainsi qu’une réunion à l’étranger. Ainsi elle s’est déjà déplacée en différents pays d’Europe, d’Amérique du Nord et du Sud, et du Maghreb. Elle contribue, par ses contacts permanents avec l’étranger, à la pérennité de la psychiatrie française dans le monde.
+          != yield
     != partial("../partials/_footer")
     script(src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
     integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous")
