@@ -78,5 +78,13 @@
     "path": "/violences-sexuelles-chez-les-mineurs",
     "date": "25 novembre 2019",
     "presidence": "Professeur Laurent Schmitt"
+  },
+  "assemblee-generale-decembre-2019": {
+    "layout": "_post-layout",
+    "title": "Assemblée générale de décembre 2019",
+    "description": "Rapport annuel, élection du bureau pour 2020, communications.",
+    "path": "/assemblee-generale-decembre-2019",
+    "date": "16 décembre 2019",
+    "presidence": "Professeur Laurent Schmitt"
   }
 }
