@@ -1,3 +1,9 @@
+## Annonce
+**<span style="color:red">
+En raison des difficultés de transport et déplacement, cet événement est au reporté en fin de matinée le lundi 27 janvier 2020.
+</span>**
+
+
 ## Lieu
 Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker    
 1, rue Cabanis – 75014 Paris
