@@ -1,6 +1,6 @@
 ### Séances 2019
 - **Lundi 25 novembre 2019** : [Séance thématique : la Pédopsychiatrie](seances/2019/violences-sexuelles-chez-les-mineurs)
-- **Lundi 16 décembre 2019** : [Assemblée générale et communications libres](seances/2019/assemblee-generale-decembre-2019)
+- **Lundi 16 décembre 2019** : [Assemblée générale et communications libres](seances/2019/assemblee-generale-decembre-2019) - <span style="color:red">En raison des difficultés de transport et de déplacement, cet événement est reporté au lundi 27 janvier 2020, en fin de matinée.</span>
 
 ### Séances 2020
 - Lundi 27 janvier : Séance en l'honneur du Professeur Marc Bourgeois

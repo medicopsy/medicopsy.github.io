@@ -1,6 +1,6 @@
 ## Annonce
 **<span style="color:red">
-En raison des difficultés de transport et déplacement, cet événement est au reporté en fin de matinée le lundi 27 janvier 2020.
+En raison des difficultés de transport et de déplacement, cet événement est reporté au lundi 27 janvier 2020, en fin de matinée.
 </span>**
 
 
