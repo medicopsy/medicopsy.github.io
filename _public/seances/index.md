@@ -14,7 +14,7 @@
 - [16 décembre 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-decembre-2019) - <span style="color:red">En raison des difficultés de transport et de déplacement, cet événement est reporté au lundi 27 janvier 2020, en fin de matinée.</span>
 
 ## Séances 2018
-- [17 décembre 2018 : Mai 68 - Une évocation entre histoire et mémoire](/seances/2018/mai-68-une-evocation-entre-histoire-et-memoire)
-- [26 novembre 2018 : Soins précoces et prévention en pédopsychiatrie](/seances/2018/soins-precoces-et-prevention-en-pedopsychiatrie)
-- [22 octobre 2018 : Physiologie et psychiatrie](/seances/2018/physiologie-et-psychiatrie)
 - [24 septembre 2018 : Créativité, cerveau et pathologie](/seances/2018/creativite-cerveau-et-pathologie)
+- [22 octobre 2018 : Physiologie et psychiatrie](/seances/2018/physiologie-et-psychiatrie)
+- [26 novembre 2018 : Soins précoces et prévention en pédopsychiatrie](/seances/2018/soins-precoces-et-prevention-en-pedopsychiatrie)
+- [17 décembre 2018 : Mai 68 - Une évocation entre histoire et mémoire](/seances/2018/mai-68-une-evocation-entre-histoire-et-memoire)
