@@ -1,3 +1,10 @@
 {
-
+  "honneur-professeur-marc-bourgeois": {
+    "layout": "_post-layout",
+    "title": "Séance en l'honneur du Professeur Marc Bourgeois",
+    "description": "Installation du nouveau bureau, allocution du président sortant, allocution du nouveau président, communication du nouveau secrétaire général",
+    "path": "/honneur-professeur-marc-bourgeois",
+    "date": "28 janvier 2019",
+    "presidence": "Pr Laurent Schmitt, Pr Jean-François Allilaire "
+  }
 }

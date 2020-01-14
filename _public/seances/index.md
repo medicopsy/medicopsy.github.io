@@ -1,5 +1,5 @@
 ## Séances 2020
-- 27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois
+- [27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)
@@ -11,7 +11,7 @@
 - [23 septembre 2019 : Les psychiatres et l'expertise](/seances/2019/les-psychiatres-et-lexpertise)
 - [21 octobre 2019 : Communications](/seances/2019/octobre-2019)
 - [25 novembre 2019 : Séance thématique : la Pédopsychiatrie](/seances/2019/violences-sexuelles-chez-les-mineurs)
-- [16 décembre 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-decembre-2019) - <span style="color:red">En raison des difficultés de transport et de déplacement, cet événement est reporté au lundi 27 janvier 2020, en fin de matinée.</span>
+- [16 décembre 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-decembre-2019)
 
 ## Séances 2018
 - [24 septembre 2018 : Créativité, cerveau et pathologie](/seances/2018/creativite-cerveau-et-pathologie)
