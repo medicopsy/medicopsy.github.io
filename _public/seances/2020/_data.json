@@ -4,7 +4,15 @@
     "title": "Séance en l'honneur du Professeur Marc Bourgeois",
     "description": "Installation du nouveau bureau, allocution du président sortant, allocution du nouveau président, communication du nouveau secrétaire général",
     "path": "/honneur-professeur-marc-bourgeois",
-    "date": "28 janvier 2019",
-    "presidence": "Pr Laurent Schmitt, Pr Jean-François Allilaire "
+    "date": "28 janvier 2020",
+    "presidence": "Pr Laurent Schmitt, Pr Jean-François Allilaire"
+  },
+  "fevrier-2020": {
+    "layout": "_post-layout",
+    "title": "Séance du 24 février 2020",
+    "description": "Allocution à la mémoire du Pr Antoine Gorceix, discussions sur le parricide, sur les risques psychosociaux chez le personnel hospitalier...",
+    "path": "/fevrier-2020",
+    "date": "24 février 2020",
+    "presidence": "Pr Laurent Schmitt"
   }
 }

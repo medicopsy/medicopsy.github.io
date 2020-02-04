@@ -1,6 +1,6 @@
 ### Séances 2020
 - **Lundi 27 janvier** : [Séance en l'honneur du Professeur Marc Bourgeois](seances/2020/honneur-professeur-marc-bourgeois)
-- Lundi 24 février
+- [**Lundi 24 février**](seances/2020/fevrier-2020)
 - Lundi 23 mars
 - Lundi 27 avril
 - Lundi 18 mai
