@@ -20,6 +20,6 @@ Lundi 24 février 2020, 14h -17h
 
 4. Elena Blacioti (Paris) – Étude d’un cas clinique : parentification et inceste. Léa, petite maman avant l'heure.
 
-5. Corinne Launay, Hauseux (Paris) – Le suicide de patients hospitalisés en psychiatrie : analyse qualitative de 8 cas à l’hôpital Sainte-Anne à Paris et recommandations.
+5. Pierre-Alain Hauseux, Fabrice Jollant et Corinne Launay (Paris) – Le suicide de patients hospitalisés en psychiatrie : analyse qualitative de 8 cas à l’hôpital Sainte-Anne à Paris et recommandations.
 
 **Entrée libre, inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr**
