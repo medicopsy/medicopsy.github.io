@@ -1,6 +1,6 @@
 ## Séances 2020
 - [27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)
-- [24 février 2020](/seances/2020/fevrier-2020)
+- [24 février 2020 : Communications libres](/seances/2020/fevrier-2020-communications-libres)
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)
