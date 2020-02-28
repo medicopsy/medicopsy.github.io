@@ -85,6 +85,14 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://medicopsy.com/seances/2020/mars-2020-communications-libres</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/seances/2020/outils-numeriques-et-psychiatrie</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://medicopsy.com/assets/docs/apa-annual-meeting-san-francisco-2019.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -98,6 +106,10 @@
   </url>
   <url>
     <loc>https://medicopsy.com/assets/docs/diu-philosophie-de-la-psychiatrie.pdf</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/assets/docs/au-dela-du-principe-de-plaisir.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

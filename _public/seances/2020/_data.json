@@ -9,10 +9,26 @@
   },
   "fevrier-2020-communications-libres": {
     "layout": "_post-layout",
-    "title": "Séance du 24 février 2020",
+    "title": "Communications Libres, Février 2020",
     "description": "Allocution à la mémoire du Pr Antoine Gorceix, discussions sur le parricide, sur les risques psychosociaux chez le personnel hospitalier...",
     "path": "/fevrier-2020-communications-libres",
     "date": "24 février 2020",
     "presidence": "Pr Laurent Schmitt"
+  },
+  "mars-2020-communications-libres": {
+    "layout": "_post-layout",
+    "title": "Communications Libres, Mars 2020",
+    "description": "Discussions organisées par la Société Médico-Psychologique.",
+    "path": "/mars-2020-communications-libres",
+    "date": "23 mars 2020",
+    "presidence": "Sylvie Vermeersch"
+  },
+  "outils-numeriques-et-psychiatrie": {
+    "layout": "_post-layout",
+    "title": "Séance thématique : Outils numériques et la psychiatrie",
+    "description": "Discussions sur les outils numériques et la psychiatrie : enjeux historiques, cliniques, philosophiques, computationnels, sociétaux...",
+    "path": "/outils-numeriques-et-psychiatrie",
+    "date": "18 mai 2020",
+    "presidence": "Dr. François Petitjean"
   }
 }
