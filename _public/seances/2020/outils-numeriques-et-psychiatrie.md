@@ -21,6 +21,6 @@ Lundi 18 mai 2020, 10h -17h
 
 - Maxime ELBAZ (Hôpital Hôtel-Dieu) - Enjeux technologiques, l'exemple des applications « sommeil ».
 
-- (Intervenant à confirmer) - Enjeux Légaux, la psychiatrie numérique au regard de la loi.
+- Marie Pia D'Ortho - Enjeux Légaux, la psychiatrie numérique au regard de la loi.
 
 **Entrée libre, inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr**
