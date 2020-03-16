@@ -42,8 +42,14 @@ html(lang='fr', dir="ltr")
     iframe(src='https://www.googletagmanager.com/ns.html?id=GTM-NGXVJCW', style='display:none;visibility:hidden', width='0', height='0')
     != partial("/partials/_nav")
     .container
-      .video.mt-2.mb-3
-        iframe(width='560', height='349', src='https://www.youtube.com/embed/sHiEBEqlfp4?autoplay=1;modestbranding=1;rel=0', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
+      .jumbotron.p-4.p-md-5.text-white.rounded.bg-dark
+        .col-md-10.px-0
+          h1.display-4.font-italic Mesdames, Messieurs, Chers collègues,
+          p.lead.my-3
+            | En raison du contexte sanitaire actuel et en accord avec les membres du bureau, je vous informe que la réunion de la Société Médico-Psychologique prévue le lundi 23 mars est annulée. Les communications prévues ce jour-là sont reportées à une date ultérieure.
+          p.mb-0 Nous vous prions de nous en excuser.
+          p.mb-0 Merci de votre compréhension et bien cordialement,
+          p.mb-0 François Petitjean, Secrétaire général de la Société Médico-Psychologique
     .container
       .row.mb-2
         .col-md-6
@@ -85,6 +91,9 @@ html(lang='fr', dir="ltr")
             p La Société Médico-Psychologique est la plus ancienne des sociétés françaises de psychiatrie et l’une des toutes premières dans le monde. Issue des Annales Médico-Psychologiques, elle fut fondée en 1847 par Jules Gabriel François Baillarger et fonctionne sans interruption depuis 1852.
             p.mb-0
               a(href="/a-propos" title="À propos de la SMP") En savoir plus
+    .container
+      .video.mt-2.mb-3
+        iframe(width='560', height='349', src='https://www.youtube.com/embed/sHiEBEqlfp4?autoplay=1;modestbranding=1;rel=0', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
     != partial("/partials/_footer")
     script(src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
     integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous")
