@@ -23,6 +23,12 @@
     "path": "/conseil-administration",
     "layout": "_subpage"
   },
+  "pandemie-covid-19": {
+    "title": "Société Médico-Psychologique | Pandémie COVID-19",
+    "description": "Cette page est dédiée à la pandémie COVID-19 qui frappe le monde depuis début 2020. Vous y trouverez des liens et documents utiles.",
+    "path": "/pandemie-covid-19",
+    "layout": "_subpage"
+  },
   "404": {
     "title": "Page introuvable",
     "layout": "_error-page"
