@@ -97,10 +97,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://medicopsy.com/assets/docs/who-covid-19-considerations.pdf</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://medicopsy.com/assets/docs/conference-de-rehabilitation-20192020.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -117,7 +113,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://medicopsy.com/assets/docs/lettre-a-lediteur.pdf</loc>
+    <loc>https://medicopsy.com/assets/docs/covid-19/lettre-a-lediteur.pdf</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
