@@ -6,9 +6,9 @@
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)
-- [25 février 2019 : Séance thématique : Intestin, cerveau et psychisme. Coordonnée par Jean Pierre Luauté](/seances/2019/intestin-cerveau-et-psychisme)
+- [25 février 2019 : Séance thématique : Intestin, cerveau et psychisme](/seances/2019/intestin-cerveau-et-psychisme)
 - [18 mars 2019 : Communications libres](/seances/2019/mars-2019-communications-libres)
-- [29 avril 2019 : Séance thématique : Psychiatrie légale. Coordonnée par Thierry Pham](/seances/2019/psychiatrie-legale)
+- [29 avril 2019 : Séance thématique : Psychiatrie légale](/seances/2019/psychiatrie-legale)
 - [27 mai 2019 : Communications libres](/seances/2019/mai-2019-communications-libres)
 - [17 juin 2019 : Séance du président : Pathologie et Art thérapie](/seances/2019/pathologie-et-art-therapie)
 - [23 septembre 2019 : Les psychiatres et l'expertise](/seances/2019/les-psychiatres-et-lexpertise)
