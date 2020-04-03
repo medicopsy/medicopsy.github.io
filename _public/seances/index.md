@@ -1,8 +1,9 @@
 ## Séances 2020
 - [27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)
 - [24 février 2020 : Communications libres](/seances/2020/fevrier-2020-communications-libres)
-- [23 mars 2020 : Communications libres](/seances/2020/mars-2020-communications-libres)
-- [18 mai 2020 : Séance thématique : Outils numériques et la psychiatrie](/seances/2020/outils-numeriques-et-psychiatrie)
+- **Annulé** : [23 mars 2020 : Communications libres](/seances/2020/mars-2020-communications-libres)
+- **Annulé** : Lundi 20 avril
+- **Annulé** : [18 mai 2020 : Séance thématique : Outils numériques et la psychiatrie](/seances/2020/outils-numeriques-et-psychiatrie)
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)
