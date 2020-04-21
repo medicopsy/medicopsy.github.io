@@ -4,6 +4,7 @@
 - **Annulé** : [23 mars 2020 : Communications libres](/seances/2020/mars-2020-communications-libres)
 - **Annulé** : Lundi 20 avril
 - **Annulé** : [18 mai 2020 : Séance thématique : Outils numériques et la psychiatrie](/seances/2020/outils-numeriques-et-psychiatrie)
+- [12 octobre 2020 : Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)

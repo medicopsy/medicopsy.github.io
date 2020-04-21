@@ -6,7 +6,7 @@
 - **Annulé** : Lundi 18 mai : [Séance thématique sur les outils numériques et la psychiatrie](seances/2020/outils-numeriques-et-psychiatrie)
 - Lundi 22 juin
 - Vendredi 18 septembre (séance délocalisée à Brest)
-- Lundi 12 octobre
+- **Lundi 12 octobre** : [Passions, Passions](seances/2020/passions-passions-octobre-2020)
 - Lundi 16 novembre
 - Lundi 14 décembre
 
