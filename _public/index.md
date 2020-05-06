@@ -1,12 +1,12 @@
 ### Séances 2020
-- **Lundi 27 janvier** : [Séance en l'honneur du Professeur Marc Bourgeois](seances/2020/honneur-professeur-marc-bourgeois)
-- **Lundi 24 février** : [Communications libres](seances/2020/fevrier-2020-communications-libres)
-- **Annulé : Lundi 23 mars** : [Communications libres](seances/2020/mars-2020-communications-libres)
+- **Lundi 27 janvier** : [Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)
+- **Lundi 24 février** : [Communications libres](/seances/2020/fevrier-2020-communications-libres)
+- **Annulé : Lundi 23 mars** : [Communications libres](/seances/2020/mars-2020-communications-libres)
 - **Annulé : Lundi 20 avril**
-- **Lundi 18 mai** : [Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinar)](seances/2020/outils-numeriques-et-psychiatrie)
+- **Lundi 18 mai** : [Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinar)](/seances/2020/outils-numeriques-et-psychiatrie)
 - Lundi 22 juin
 - Vendredi 18 septembre (séance délocalisée à Brest)
-- **Lundi 12 octobre** : [Passions, Passions](seances/2020/passions-passions-octobre-2020)
+- **Lundi 12 octobre** : [Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - Lundi 16 novembre
 - Lundi 14 décembre
 

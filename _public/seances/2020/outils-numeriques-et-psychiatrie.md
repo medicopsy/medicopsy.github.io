@@ -2,7 +2,7 @@
 Lundi 18 mai 2020, 17h30 -19h
 
 ## Programme
-En cours de finalisation.
+Disponible [ici](/assets/docs/communique-de-presse-mai-2020.pdf)
 
 ## Accès
-Le lien vers le webinar sera publié sur cette page dans les prochains jours.
+**Inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr**
