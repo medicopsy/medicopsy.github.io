@@ -3,8 +3,8 @@
 - [24 février 2020 : Communications libres](/seances/2020/fevrier-2020-communications-libres)
 - **Annulé** : [23 mars 2020 : Communications libres](/seances/2020/mars-2020-communications-libres)
 - **Annulé : Lundi 20 avril**
-- [18 mai 2020 : Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinar)](/seances/2020/outils-numeriques-et-psychiatrie)
-- 22 juin 2020
+- [18 mai 2020 : Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinaire)](/seances/2020/outils-numeriques-et-psychiatrie)
+- [22 juin 2020 : Assemblée Générale (Webinaire)](/seances/2020/assemblee-generale-juin-2020)
 - 18 septembre 2020 (séance délocalisée à Brest)
 - [12 octobre 2020 : Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - 16 novembre 2020
