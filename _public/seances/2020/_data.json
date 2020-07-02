@@ -9,7 +9,7 @@
   },
   "fevrier-2020-communications-libres": {
     "layout": "_post-layout",
-    "title": "Communications Libres, Février 2020",
+    "title": "Communications Libres, février 2020",
     "description": "Allocution à la mémoire du Pr Antoine Gorceix, discussions sur le parricide, sur les risques psychosociaux chez le personnel hospitalier...",
     "path": "/fevrier-2020-communications-libres",
     "date": "24 février 2020",
@@ -17,7 +17,7 @@
   },
   "mars-2020-communications-libres": {
     "layout": "_post-layout",
-    "title": "Communications Libres, Mars 2020",
+    "title": "Communications Libres, mars 2020",
     "description": "Discussions organisées par la Société Médico-Psychologique.",
     "path": "/mars-2020-communications-libres",
     "date": "23 mars 2020",
@@ -46,5 +46,13 @@
     "path": "/passions-passions-octobre-2020",
     "date": "12 octobre 2020",
     "presidence": "Dr Marc G. SCHWEITZER"
+  },
+  "septembre-2020-communications-libres": {
+    "layout": "_post-layout",
+    "title": "Communications Libres, septembre 2020",
+    "description": "Discussions organisées par la Société Médico-Psychologique.",
+    "path": "/septembre-2020-communications-libres",
+    "date": "21 octobre 2020",
+    "presidence": "Docteur Sylvie VERMEERSCH"
   }
 }
