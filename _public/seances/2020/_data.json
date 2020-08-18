@@ -39,14 +39,6 @@
     "date": "22 juin 2020",
     "presidence": "Dr François Petitjean"
   },
-  "passions-passions-octobre-2020": {
-    "layout": "_post-layout",
-    "title": "Passions, Passions",
-    "description": "Séance thématique proposée par Michel Bénézech sur les passions, psychoses passionnelles, la folie...",
-    "path": "/passions-passions-octobre-2020",
-    "date": "12 octobre 2020",
-    "presidence": "Dr Marc G. SCHWEITZER"
-  },
   "septembre-2020-communications-libres": {
     "layout": "_post-layout",
     "title": "Communications Libres, septembre 2020",
@@ -54,5 +46,13 @@
     "path": "/septembre-2020-communications-libres",
     "date": "21 octobre 2020",
     "presidence": "Docteur Sylvie VERMEERSCH"
+  },
+  "passions-passions-octobre-2020": {
+    "layout": "_post-layout",
+    "title": "Passions, Passions",
+    "description": "Séance thématique proposée par Michel Bénézech sur les passions, psychoses passionnelles, la folie...",
+    "path": "/passions-passions-octobre-2020",
+    "date": "12 octobre 2020",
+    "presidence": "Dr Sylvie VERMEERSCH, présidente"
   }
 }
