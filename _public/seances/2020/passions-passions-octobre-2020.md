@@ -5,7 +5,7 @@ Séance en ligne (webinaire)
 - Lundi 12 octobre 2020, 17h - 19h
 - Lundi 19 octobre 2020, 17h - 19h
 
-## A Propos
+## À Propos
 Veuillez trouver ci-dessous les informations permettant de vous connecter à Zoom les 12 et 19 octobre pour le webinaire auquel vous avez souhaité participer. La séance commencera à 17 heures et se terminera à 19 heures.
 
 Séance thématique proposée par Michel BÉNÉZECH.
@@ -52,3 +52,6 @@ Gilles THOMAS. – Donner un sens à sa vie : à propos des passions comme modal
 4. Nielle PUIG-VERGES. – Découvrir, connaître, transmettre : une passion de la Connaissance
 
 5. Maud LEMERCIER-DUGARIN, Lucia ROMO, Oulmann ZERHOUNI. – « Je suis un gamer ! » : au-delà des stéréotypes, les enjeux d’une identité passionnelle.
+
+## Conclusion
+Aimé Charles-Nicolas
