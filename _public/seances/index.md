@@ -6,7 +6,7 @@
 - [18 mai 2020 : Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinaire)](/seances/2020/outils-numeriques-et-psychiatrie)
 - [22 juin 2020 : Assemblée Générale (Webinaire)](/seances/2020/assemblee-generale-juin-2020)
 - [21 septembre 2020 : Communications libres](/seances/2020/septembre-2020-communications-libres)
-- [12 octobre 2020 : Passions, Passions](/seances/2020/passions-passions-octobre-2020)
+- [12 & 19 octobre 2020 : Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - 16 novembre 2020
 - 14 décembre 2020
 

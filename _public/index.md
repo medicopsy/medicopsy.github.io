@@ -6,7 +6,7 @@
 - **Lundi 18 mai** : [Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinaire)](/seances/2020/outils-numeriques-et-psychiatrie)
 - **Lundi 22 juin** : [Assemblée Générale (Webinaire)](/seances/2020/assemblee-generale-juin-2020)
 - **Lundi 21 septembre** : [Communications libres](/seances/2020/septembre-2020-communications-libres)
-- **Lundi 12 octobre** : [Passions, Passions](/seances/2020/passions-passions-octobre-2020)
+- **Lundi 12 & 19 octobre** : [Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - Lundi 16 novembre
 - Lundi 14 décembre
 
