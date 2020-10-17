@@ -53,5 +53,13 @@
     "description": "Séance thématique proposée par Michel Bénézech sur les passions, psychoses passionnelles, la folie...",
     "path": "/passions-passions-octobre-2020",
     "date": "12 octobre 2020"
+  },
+  "la-schizophrenie-en-2020": {
+    "layout": "_post-layout",
+    "title": "Séance thématique : La schizophrénie en 2020",
+    "description": "Séance thématique proposée coordonnée par Pierre-Michel Llorca sur la schizophrénie en 2020.",
+    "path": "/la-schizophrenie-en-2020",
+    "date": "16 novembre 2020",
+    "presidence": "Dr Sylvie Vermeersch, présidente"
   }
 }
