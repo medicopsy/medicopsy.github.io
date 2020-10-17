@@ -14,7 +14,7 @@ Lundi 16 novembre 2020
 Pierre-Michel Llorca
 
 ## Matinée : 10-12 heures
-*Modérateur : François Petitjean*
+_Modérateur : François Petitjean_
 
 1. 10h-10h25 : Steeves Demazeux (Université Bordeaux Montaigne) – Les symptômes en Psychiatrie : approche épistémologique.
 
@@ -31,7 +31,7 @@ Pierre-Michel Llorca
 7. 11h45-12h : discussion générale au panel
 
 ## Après-midi : 14-16 heures
-*Modérateur : François Petitjean*
+_Modérateur : François Petitjean_
 
 8. 14h-14h25 : Franck Schurhoff (Université Paris-Est Créteil) – Le milieu urbain : un facteur de risque pour les troubles psychotiques ?
 
