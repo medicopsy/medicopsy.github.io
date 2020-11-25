@@ -8,7 +8,7 @@
 - **Lundi 21 septembre** : [Communications libres](/seances/2020/septembre-2020-communications-libres)
 - **Lundi 12 & 19 octobre** : [Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - **Lundi 16 novembre** : [La schizophrénie en 2020](/seances/2020/la-schizophrenie-en-2020)
-- **Lundi 14 décembre** : [Assemblée Générale](/seances/2020/decembre-2020-assemblee-generale)
+- **Lundi 14 décembre** : [Assemblée Générale et communications libres](/seances/2020/decembre-2020-assemblee-generale)
 
 ### Séances 2021
 - Lundi 18 janvier : Communications libres

@@ -20,7 +20,7 @@
 - [21 septembre 2020 : Communications libres](/seances/2020/septembre-2020-communications-libres)
 - [12 & 19 octobre 2020 : Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - [16 novembre 2020 : La schizophrénie en 2020](/seances/2020/la-schizophrenie-en-2020)
-- [14 décembre 2020 : Assemblée Générale](/seances/2020/decembre-2020-assemblee-generale)
+- [14 décembre 2020 : Assemblée Générale et communications libres](/seances/2020/decembre-2020-assemblee-generale)
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)
