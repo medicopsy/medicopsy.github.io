@@ -1,3 +1,15 @@
+## Séances 2021
+- Lundi 18 janvier : Communications libres
+- Lundi 8 février : Biographies et biographes (Marc Schweitzer)
+- Lundi 15 mars : Isolement et contention (Cyril Hazif-Thomas) 
+- Lundi 26 avril : Phénomènes psychogéniques collectifs. Contagiosité des comportements humains (J.-P. Luauté)
+- Lundi 17 mai : Communications libres
+- Lundi 21 juin : Séance du président Marc Schweitzer : Le futur et l’avenir.
+- Septembre - Séance à Brest : Empathie, distanciation et éthique du soin en psychiatrie de la personne âgée (Cyril Hazif-Thomas)
+- Lundi 11 octobre : Le pénal (Thierry Pham)
+- Lundi 22 novembre : Pédopsychiatrie
+- Lundi 13 décembre : Communications libres
+
 ## Séances 2020
 - [27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)
 - [24 février 2020 : Communications libres](/seances/2020/fevrier-2020-communications-libres)
@@ -8,7 +20,7 @@
 - [21 septembre 2020 : Communications libres](/seances/2020/septembre-2020-communications-libres)
 - [12 & 19 octobre 2020 : Passions, Passions](/seances/2020/passions-passions-octobre-2020)
 - [16 novembre 2020 : La schizophrénie en 2020](/seances/2020/la-schizophrenie-en-2020)
-- 14 décembre 2020
+- [14 décembre 2020 : Assemblée Générale](/seances/2020/decembre-2020-assemblee-generale)
 
 ## Séances 2019
 - [28 janvier 2019 : Assemblée générale et communications libres](/seances/2019/assemblee-generale-janvier-2019)

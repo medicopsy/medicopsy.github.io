@@ -3,7 +3,7 @@ Hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker
 1, rue Cabanis – 75014 Paris
 
 ## Horaires
-Lundi 24 février 2020, 14h -17h
+Lundi 24 février 2020, 14h - 17h
 
 ## Allocutions
 - Allocution de début de présidence par le Dr Sylvie Vermeersch

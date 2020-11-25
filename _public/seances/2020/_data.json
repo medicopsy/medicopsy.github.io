@@ -61,5 +61,12 @@
     "path": "/la-schizophrenie-en-2020",
     "date": "16 novembre 2020",
     "presidence": "Dr Sylvie Vermeersch, présidente"
+  },
+  "decembre-2020-assemblee-generale": {
+    "layout": "_post-layout",
+    "title": "Assemblée Générale de décembre 2020",
+    "description": "Assemblée Générale de fin d'année.",
+    "path": "/decembre-2020-assemblee-generale",
+    "date": "14 décembre 2020"
   }
 }
