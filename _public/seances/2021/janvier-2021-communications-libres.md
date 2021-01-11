@@ -35,4 +35,4 @@ Lundi 18 janvier 2021, 13h30 -16h
 
 4. Sophie CAYLA, Anne-Valérie MAZOYER (Toulouse) – Incidences psychiques de la transidentité d’un adolescent sur la paternité et l’identité masculine. Étude exploratoire.
 
-**Entrée libre, inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr**
+**Inscription obligatoire auprès du secrétariat de la Société Médico-Psychologique : jacqueline_parant@orange.fr**
