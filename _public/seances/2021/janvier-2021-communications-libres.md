@@ -1,9 +1,9 @@
 ## Lieu
 Séance en ligne (webinaire)
 
-Veuillez cliquer sur [ce lien](https://us02web.zoom.us/j/89531359613?pwd=N1JjdEpHKzB1WHdMRGlpOVpBelozUT09) pour accéder au webinaire.
-- Nº du webinaire : 895 3135 9613
-- Code secret : 578196
+Veuillez cliquer sur [ce lien](https://us02web.zoom.us/j/86817082718?pwd=MDVVK0QvWDVtVGd0MnNUOGdPRzdkUT09) pour accéder au webinaire.
+- Nº du webinaire : 868 1708 2718
+- Code secret : 499735
 
 Ou par téléphone, composez le +33 1 7095 0350.
 
