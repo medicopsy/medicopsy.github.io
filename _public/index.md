@@ -1,5 +1,5 @@
 ### Séances 2021
-- **Lundi 18 janvier** : [Communications libres](/seances/2021/janvier-2021-communications-libres)
+- **Lundi 18 janvier** : [Assemblée générale et communications libres](/seances/2021/janvier-2021-communications-libres)
 - Lundi 8 février (journée) : Biographies et biographes (Marc Schweitzer)
 - Lundi 22 mars : Isolement et contention (Cyril Hazif-Thomas)
 - Lundi 26 avril : Phénomènes psychogéniques collectifs. Contagiosité des comportements humains (Jean-Pierre Luauté)
