@@ -35,6 +35,18 @@
     "path": "/in-memoriam-jean-garrabe",
     "layout": "_subpage"
   },
+  "histoire": {
+    "title": "Histoire | SMP",
+    "description": "Cette page contient des informations sur l'histoire de la Société Médico-Psychologique.",
+    "path": "/histoire",
+    "layout": "_subpage"
+  },
+  "dictionnaire-biographique": {
+    "title": "Dictionnaire Biographique | SMP",
+    "description": "Parcourez le dictionnaire biographique de la SMP.",
+    "path": "/dictionnaire-biographique",
+    "layout": "_subpage"
+  },
   "404": {
     "title": "Page introuvable",
     "layout": "_error-page"

@@ -25,6 +25,14 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://medicopsy.com/histoire</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/dictionnaire-biographique</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://medicopsy.com/seances/</loc>
     <changefreq>weekly</changefreq>
   </url>
