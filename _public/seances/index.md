@@ -1,7 +1,7 @@
 ## Séances 2021
 - [Lundi 18 janvier : Assemblée générale et communications libres](/seances/2021/janvier-2021-communications-libres)
 - [Lundi 8 février (journée) : Biographies et biographes (Marc Schweitzer)](/seances/2021/fevrier-2021-biographies-biographes)
-- Lundi 22 mars : Isolement et contention (Cyril Hazif-Thomas)
+- [Lundi 22 mars : Isolement et contention (Cyril Hazif-Thomas)](/seances/2021/mars-2021-isolement-et-contention)
 - Lundi 26 avril : Phénomènes psychogéniques collectifs. Contagiosité des comportements humains (Jean-Pierre Luauté)
 - Lundi 17 mai : Organisation des soins : avancées et limites des nouveaux modèles (François Petitjean et Héloïse Haliday)
 - Lundi 21 juin : Séance du président Marc Schweitzer, Le futur : promesses et incertitudes du devenir.

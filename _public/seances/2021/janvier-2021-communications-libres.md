@@ -8,7 +8,7 @@ Veuillez cliquer sur [ce lien](https://us02web.zoom.us/j/86817082718?pwd=MDVVK0Q
 Ou par téléphone, composez le +33 1 7095 0350.
 
 ## Horaires
-Lundi 18 janvier 2021, 13h30 -16h
+Lundi 18 janvier 2021, 13h30 - 16h
 
 ## Assemblée Générale
 - Installation du nouveau Bureau

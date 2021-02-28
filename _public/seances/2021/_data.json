@@ -14,5 +14,13 @@
     "path": "/fevrier-2021-biographies-biographes",
     "date": "8 février 2021",
     "presidence": "Marc Schweitzer"
+  },
+  "mars-2021-isolement-et-contention": {
+    "layout": "_post-layout",
+    "title": "Isolement et contention",
+    "description": "Séance thématique sur l'isolement et la contention coordonnée par Dr Cyril Hazif-Thomas.",
+    "path": "/mars-2021-isolement-et-contention",
+    "date": "22 mars 2021",
+    "presidence": "Marc Schweitzer"
   }
 }
