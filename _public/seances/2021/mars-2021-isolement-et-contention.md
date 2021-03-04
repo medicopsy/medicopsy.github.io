@@ -37,6 +37,8 @@ Lundi 22 mars 2021, 14h30 - 17h30
 
 3. Dr Véronique LEFEBVRE DES NOETTES (Psychiatre du sujet âgé, Co-directeur du département de recherche Éthique biomédicale Collège de Bernardins) – Regard éthique sur le recours à l'isolement/contention en gériatrie et psychogériatrie.
 
-4. Drs Stéphanie TOY-RIONT, Fanny GAINI, Matthieu PARRIGI, Christian VEDIE (CH Valvert, Marseille) : Une loi folle peut-elle être un mal nécessaire ?
+4. M. Marc GRIMBERT (Magistrat au Tribunal judiciaire de Quimper, Juge des libertés et de la détention) – Vers un juge médical ? Sur l'ambigüité de l'office du juge en matière d'hospitalisation sous contrainte.
+
+5. Drs Stéphanie TOY-RIONT, Fanny GAINI, Matthieu PARRIGI, Christian VEDIE (CH Valvert, Marseille) : Une loi folle peut-elle être un mal nécessaire ?
 
 En vous remerciant pour votre fidélité, bien cordialement à tous.
