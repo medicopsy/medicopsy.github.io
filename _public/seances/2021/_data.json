@@ -22,5 +22,29 @@
     "path": "/mars-2021-isolement-et-contention",
     "date": "22 mars 2021",
     "presidence": "Marc Schweitzer"
+  },
+  "avril-2021-phenomenes-psychogeniques-collectifs": {
+    "layout": "_post-layout",
+    "title": "Phénomènes Psychogéniques Collectifs. Contagiosité des comportements humains.",
+    "description": "Séance thématique sur les phénomènes psychogéniques proposée et coordonnée par Jean-Pierre Luauté.",
+    "path": "/avril-2021-phenomenes-psychogeniques-collectifs",
+    "date": "26 avril 2021",
+    "presidence": "Marc Schweitzer"
+  },
+  "mai-2021-organisation-des-soins": {
+    "layout": "_post-layout",
+    "title": "Organisation des soins : avancées et limites des nouveaux modèles",
+    "description": "Séance thématique sur l'organisation des soins organisée par François Petitjean et Héloïse Haliday.",
+    "path": "/mai-2021-organisation-des-soins",
+    "date": "17 mai 2021",
+    "presidence": "Marc Schweitzer"
+  },
+  "juin-2021-journee-du-president": {
+    "layout": "_post-layout",
+    "title": "Journée du Président 2021",
+    "description": "La Journée du Président est axée sur un thème fédérateur et induit quelque détente après les contraintes que nous vivons.",
+    "path": "/juin-2021-journee-du-president",
+    "date": "21 juin 2021",
+    "presidence": "Marc Schweitzer"
   }
 }
