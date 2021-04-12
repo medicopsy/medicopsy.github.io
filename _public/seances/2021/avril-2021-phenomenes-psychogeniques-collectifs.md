@@ -7,20 +7,16 @@ au cours d’un webinaire le 26 avril prochain, de 13 h 30 à 16 heures.
 
 ## Communications
 
-- Jean-Pierre LUAUTÉ (Romans) – Introduction : nommer pour comprendre.
+1. J.P. LUAUTE (Romans) – Introduction : nommer pour comprendre.
 
-- Olivier WALUSINSKI (Brou) - Contagiosité des comportements humains : la réplication du
-bâillement peut-elle nous éclairer ?
+2. O. SALADINI, J-P LUAUTE (Romans) - Comment comprendre la contagiosité du suicide ?
 
-- Jérôme BELLAYER (Nice) - Contagiosité de l'électroHyperSensibilité
+3. P. LEMOINE (Lyon) - De Loudin à Levothyrox en passant par l'Electrohypersensibilité, l'effet nocebo est-il contagieux ?
 
-- Marc-G. SCHWEITZER (Paris) - Présomption d'imputabilité et apport de l'expertise : À
-propos des troubles attribués aux innovations
+4. O. WALUSINSKI (Brou) - Contagiosité des comportements humains : la réplication du bâillement peut-elle nous éclairer ?
 
-- Patrick LEMOINE (Lyon) - De Loudin à Levothyrox en passant par l'electrohypersensibilité,
-l'effet nocébo est-il contagieux ?
+5. J. BELLAYER (Nice) - Contagiosité de l'ElectroHyperSensibilité
 
-- Olivier SALADINI, Jean-Pierre LUAUÉ (Romans) - Comment comprendre la contagiosité du
-suicide.
+6. Marc-G. SCHWEITZER (Paris) - Présomption d'imputabilité et apport de l'expertise : A propos des troubles attribués aux innovations 
 
 _Communication du secrétaire général, le Dr François Petitjean_
