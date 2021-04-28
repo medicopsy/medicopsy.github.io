@@ -1,5 +1,14 @@
 _Séance thématique organisée par François Petitjean et Héloïse Haliday._
 
+## Lieu
+Séance en ligne (webinaire)
+
+Veuillez cliquer sur [ce lien](https://us02web.zoom.us/j/84680826899?pwd=SHVVNUxCbmg0OFhwbjJLdG1UL2lEUT09) pour accéder au webinaire.
+- Nº du webinaire : 846 8082 6899
+- Code secret : 853113
+
+Ou par téléphone, composez le +33 1 7095 0350.
+
 ## Horaires
 
 Cher Collègues et amis, j’ai le plaisir de vous inviter à la prochaine réunion de la Société Médico-Psychologique qui aura lieu
