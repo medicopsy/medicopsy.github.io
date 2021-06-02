@@ -1,38 +1,39 @@
-## Date
-21 juin 2021
+## Lieu
+Séance en ligne (webinaire)
 
-## Argument
+Veuillez cliquer sur [ce lien](https://us02web.zoom.us/j/81855876763?pwd=MlNyMHMyZzVzNzdielZRUnQ4bU9IQT09) pour accéder au webinaire.
+- Nº du webinaire : 818 5587 6763
+- Code secret : 542609
 
-La Journée du Président se devait, selon moi, d’être axée sur un thème fédérateur et induisant quelque
-détente après les contraintes que nous vivons ; qu’elle soit aussi tournée vers les plus jeunes qui
-rejoignent la Société, me paraissait supposer une approche prospective. Au final, j'ai retenu comme
-thème :
+Ou par téléphone, composez le +33 1 7095 0350.
 
-## Le Futur : Promesses et Incertitudes du Devenir
+## Horaires
+Lundi 21 juin 2021, 9h30
 
-Pour cette journée qui se tiendra le 21 juin 2021
+## Communications
 
-Penser le futur, jusqu'où, jusqu'à quand, selon quels axes ? Le futur mobilise un ensemble de
-représentations et de croyances liées à notre rapport à l'autre, au monde, à l'espace et au temps. Le
-futur a sa propre histoire, se construit à chaque génération, avec souvent un projet de monde nouveau
-ou pour le moins des perspectives au niveau sociétal et juridique, environnemental, scientifique,
-philosophique, socio-économique et même politique.
-L'évocation du futur mobilise au plan individuel une réflexion portant sur des outils rationnels, des
-faits scientifiques, mais aussi des croyances et opinions sans lesquels penser le futur est un leurre.
+### Ouverture des travaux à 9 h 30
 
-Les dimensions théoriques de cette prospective sont déjà établies pour cette journée avec des
-intervenants extérieurs, d’autres seront des communications axées sur les différents aspects de nos
-pratiques et de nos recherches en psychiatrie et santé mentale.
-Il s'agit de considérer comment, dans nos professions, nous appréhendons le futur avec ses avancées
-techniques, ses reformulations langagières et ses nouvelles constructions théoriques à l’œuvre dans la
-psychiatrie, les neurosciences, les sciences humaines ainsi qu’avec les interrogations épistémologiques
-et philosophiques qui les sous-tendent.
+1. Marc SCHWEITZER (Paris) – Introduction de la journée.
 
-Le futur de la recherche en psychiatrie n‘est pas nécessairement le futur de la clinique psychiatrique
-et psychopathologique dans le champ de la santé mentale. Il s’agit d’un état de fait évolutif qui retentit
-sur notre pratique professionnelle. Ces interrogations sur des aspects pratiques actuels sont en lien
-avec les évolutions de nos conceptions séméiologiques, des soins et innovations thérapeutiques, ainsi
-qu’avec les changements structurels et les pratiques institutionnelles.
+2. Constant HOUSSOU (Villejuif) – Le futur en questions et questionnements du futur.
 
-Paris, le 21 février 2021
-Dr M. Schweitzer
+3. Vincent VIGNEAU (Paris) – Le raisonnement juridique est-il compatible avec l’IA : faudra-t- il encore des juges ?
+
+4. Mary-Hélène BERNARD (Reims/Paris) – Les experts et l’expertise en santé : quel devenir ?
+
+5. Francis EUSTACHE (Caen) – La projection dans le futur : neuropsychologie, neuro-imagerie, psychopathologie.
+
+### Reprise des travaux à 14 heures
+
+6. Pascal CHABOT (Bruxelles) – Le temps du soin et l’hypertemps de la société.
+
+7. Nielle PUIG-VERGES (Paris) – Fonctions de l’anticipation et images de l’homme : apports de la philosophie analytique à la psychiatrie.
+
+8. Michel de BOUCAUD (Bordeaux) – La psychiatrie dans ses rapports avec l’institutionnel et le familial. Réflexions sur le futur.
+
+9. Nassim SARNI (Paris) – Nouvelles influences pour la nosographie psychiatrique.
+
+10. Aimé CHARLES-NICOLAS (Fort-de-France/Paris) - Perspectives pour un autre temps.
+
+**Accès libre pour tous les personnels de santé. Inscription obligatoire auprès de Jacqueline Parant (jacqueline_parant@orange.fr)**
