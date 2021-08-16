@@ -8,6 +8,6 @@
 - **Vendredi 17 septembre (journée)** : [Séance à Brest, au cours du colloque « Empathie, distanciation et éthique du soin en psychiatrie de la personne âgée » : Enjeux et éthique de la crise sanitaire chez les personnes âgées](/seances/2021/septembre-2021-enjeux-ethique-crise-sanitaire-personnes-agees)
 - Lundi 11 octobre : Le médico-légal (Thierry Pham)
 - Lundi 22 novembre : Filiation, PMA, GPA et genre (Marc Schweitzer)
-- Lundi 13 décembre : La souffrance des soignants au travail (Cyril Hazif-Thomas)
+- Lundi 13 décembre : Communications libres
 
 Pour voir l'intégralité de nos séances, rendez vous [ici](/seances/).
