@@ -6,7 +6,7 @@
 - [Lundi 17 mai : Organisation des soins : avancées et limites des nouveaux modèles](/seances/2021/mai-2021-organisation-des-soins)
 - [Lundi 21 juin : Séance du président Marc Schweitzer, Le futur : promesses et incertitudes du devenir](/seances/2021/juin-2021-promesses-et-incertitudes-du-devenir)
 - [Vendredi 17 septembre (journée) : Séance à Brest, au cours du colloque « Empathie, distanciation et éthique du soin en psychiatrie de la personne âgée » : Enjeux et éthique de la crise sanitaire chez les personnes âgées](/seances/2021/septembre-2021-enjeux-ethique-crise-sanitaire-personnes-agees)
-- Lundi 11 octobre : Le médico-légal
+- [Lundi 11 octobre : Avancée de la recherche en psychiatrie légale](/seances/2021/11-octobre-avancee-recherche-psychiatrie-legale)
 - Lundi 22 novembre : Filiation, PMA, GPA et genre
 - Lundi 13 décembre : Communications libres
 
