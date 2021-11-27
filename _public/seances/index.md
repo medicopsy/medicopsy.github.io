@@ -8,7 +8,7 @@
 - [Vendredi 17 septembre (journée) : Séance à Brest, au cours du colloque « Empathie, distanciation et éthique du soin en psychiatrie de la personne âgée » : Enjeux et éthique de la crise sanitaire chez les personnes âgées](/seances/2021/septembre-2021-enjeux-ethique-crise-sanitaire-personnes-agees)
 - [Lundi 11 octobre : Avancée de la recherche en psychiatrie légale](/seances/2021/11-octobre-avancee-recherche-psychiatrie-legale)
 - [Lundi 22 novembre : Questions autour du genre et de la filiation](/seances/2021/novembre-2021-questions-genre-filiation)
-- Lundi 13 décembre : Communications libres
+- [Lundi 13 décembre : Communications libres](/seances/2021/decembre-2021-communications-libres)
 
 ## Séances 2020
 - [27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)

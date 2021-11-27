@@ -77,5 +77,12 @@
     "description": "François Petitjean a le plaisir de vous inviter à la prochaine réunion de la Société Médico-Psychologique qui aura lieu au cours d’un webinaire le 11 octobre prochain.",
     "path": "/novembre-2021-questions-genre-filiation",
     "date": "22 novembre 2021"
+  },
+  "decembre-2021-communications-libres": {
+    "layout": "_post-layout",
+    "title": "Assemblée Générale et Communications de décembre 2021",
+    "description": "François Petitjean a le plaisir de vous inviter à la prochaine réunion de la Société Médico-Psychologique qui aura lieu au cours d’un webinaire le 13 décembre prochain.",
+    "path": "/decembre-2021-communications-libres",
+    "date": "13 décembre 2021"
   }
 }
