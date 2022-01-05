@@ -1,5 +1,5 @@
 ## Séances 2022
-- 24 janvier : Communications libres
+- [Lundi 24 janvier : Communications libres](/seances/2022/janvier-2022-communications-libres)
 - 28 février: Santé physique et mentale (Jean-Arthur Micoulaud-Franchi), journée
 - 21 mars : Dépression (Présidente I. Jalenques), journée
 - 11 avril : Sémiologie et troubles psychotiques (Pierrette Estingoy), 1/2 journée
