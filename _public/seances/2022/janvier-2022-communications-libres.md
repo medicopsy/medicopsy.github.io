@@ -21,7 +21,7 @@ Lundi 24 janvier 2021, 14h - 16h
 
 2. Marion REMADI, Emeric SAGUIN, Cécile FICKO (Paris) – Neurocysticercose, mise en commun d'un savoir entre psychiatrie et infectiologie.
 
-3. Alexandre NOVO, Héloïse HALIDAY (Paris) – Analyse qualitative et quantitative du devenir à l’âge adulte des mineurs admis en accueil familial thérapeutique.
+3. Landbeck Alicia, Haliday Heloise - Dispositif à médiations thérapeutiques auprès d'enfants victimes de sévices au Cambodge. L'apport des enveloppes psychiques dans la clinique
 
 4. Éric MEYER, Jérôme CUADRADO, Grégory MICHEL (Bordeaux) – Étude de cas sur la dysmnésie ou les difficultés scolaires diffuses.
 
