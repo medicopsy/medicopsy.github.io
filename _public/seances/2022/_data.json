@@ -6,5 +6,13 @@
     "path": "/janvier-2022-communications-libres",
     "date": "24 janvier 2022",
     "presidence": "Marc Schweitzer, Isabelle Jalenques"
+  },
+  "fevrier-2022-sante-et-psychiatrie": {
+    "layout": "_post-layout",
+    "title": "Santé et psychiatrie : au-delà de la santé mentale ?",
+    "description": "Séance thématique proposée par le Dr Jean-Arthur Micoulaud-Franchi.",
+    "path": "/fevrier-2022-sante-et-psychiatrie",
+    "date": "28 février 2022",
+    "presidence": "Pr Isabelle Jalenques"
   }
 }

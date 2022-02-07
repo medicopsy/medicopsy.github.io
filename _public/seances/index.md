@@ -1,6 +1,6 @@
 ## Séances 2022
 - [Lundi 24 janvier : Communications libres](/seances/2022/janvier-2022-communications-libres)
-- 28 février: Santé physique et mentale (Jean-Arthur Micoulaud-Franchi), journée
+- [28 février: Santé et psychiatrie : au-delà de la santé mentale ? (Jean-Arthur Micoulaud-Franchi)](/seances/2022/fevrier-2022-sante-et-psychiatrie)
 - 21 mars : Dépression (Présidente I. Jalenques), journée
 - 11 avril : Sémiologie et troubles psychotiques (Pierrette Estingoy), 1/2 journée
 - 23 mai : Anniversaire des 170 ans de la Société Médico-Psychologique, journée
