@@ -3,7 +3,7 @@
 - [28 février: Santé et psychiatrie : au-delà de la santé mentale ? (Jean-Arthur Micoulaud-Franchi)](/seances/2022/fevrier-2022-sante-et-psychiatrie)
 - 21 mars : Dépression (Présidente I. Jalenques), journée
 - 11 avril : Sémiologie et troubles psychotiques (Pierrette Estingoy), 1/2 journée
-- 23 mai : Anniversaire des 170 ans de la Société Médico-Psychologique, journée
+- 12 et 13 mai : 170 ans de la Société medico psychologique : Séance anniversaire à l'académie de médecine
 - 20 juin : L'expression "la banalité du mal" a-t-elle un sens en psychopathologie? (Elisabeth Gontier et Charles Gheorghiev)
 - 26 septembre : La psychiatrie militaire (Gilles Thomas), journée
 - 11 octobre : Victimes d’attentats (Schweitzer)
