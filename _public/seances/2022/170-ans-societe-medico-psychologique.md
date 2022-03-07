@@ -1,5 +1,3 @@
-## Les 170 ans de la Société Médico Psychologique : Une Société pour la psychiatrie, une Psychiatrie pour la société
-
 ### Horaires
 Jeudi 12 mai et Vendredi 13 mai 2022
 
