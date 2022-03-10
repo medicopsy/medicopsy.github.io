@@ -22,5 +22,13 @@
     "path": "/170-ans-societe-medico-psychologique",
     "date": "12 et 13 mai 2022",
     "presidence": "Jean-François Allilaire, Bernard Granger, Julien Daniel Guelfi"
+  },
+  "mars-2022-troubles-depressifs": {
+    "layout": "_event-layout",
+    "title": "Les troubles depressifs",
+    "description": "La SMP tiendra une séance sur les troubles dépressifs et couvrira une série de thématiques sur le sujet.",
+    "path": "/mars-2022-troubles-depressifs",
+    "date": "21 mars 2022",
+    "presidence": ""
   }
 }

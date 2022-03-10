@@ -7,7 +7,7 @@ J’ai le plaisir de vous inviter à la prochaine réunion de la Société Médi
 - Code secret : 029959
 
 ## Horaires
-Lundi 24 janvier 2021, 14h - 16h
+Lundi 24 janvier 2022, 14h - 16h
 
 ## Assemblée Générale
 - Installation du nouveau Bureau
