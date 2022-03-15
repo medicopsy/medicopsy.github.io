@@ -83,7 +83,10 @@ Michel DE BOUCAUD - Bordeaux
 - **17h00 - 17h15** - Conclusions et clôture
 François PETITJEAN - Paris
 
+### Programme
+[Lien vers le programe](https://medicopsy.com/assets/docs/covid-19/programme-170-ans.pdf){:target="_blank"}
+
 ### Réservation d'hôtel
-Veuillez vous rendre sur [ce lien](https://platform.revolugo.com/hotels?wid=170-ans-de-la-smp) pour réserver une chambre d'hôtel à proximité de la conférence.
+Veuillez vous rendre sur [ce lien](https://platform.revolugo.com/hotels?wid=170-ans-de-la-smp){:target="_blank"} pour réserver une chambre d'hôtel à proximité de la conférence.
 
 ### Inscription à la conférence
