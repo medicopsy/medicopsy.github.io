@@ -1,6 +1,3 @@
-### Séances 2021
-- **Lundi 13 décembre** : [Communications libres](/seances/2021/decembre-2021-communications-libres)
-
 ### Séances 2022
 - **24 janvier** : [Communications libres](/seances/2022/janvier-2022-communications-libres)
 - **28 février** : [Santé et psychiatrie : au-delà de la santé mentale ? (Jean-Arthur Micoulaud-Franchi)](/seances/2022/fevrier-2022-sante-et-psychiatrie)
