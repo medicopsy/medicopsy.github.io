@@ -32,7 +32,7 @@ animée par : Cyril HAZIF THOMAS - Brest et François PETITJEAN - Paris, avec Fr
 - **À partir de 19h00** - Cocktail dinatoire
 Maison de l’Amérique Latine
 217 Boulevard Saint Germain
-75007 Paris
+75007 Paris (sur inscription préalable)
 
 ### Vendredi 13 mai
 
