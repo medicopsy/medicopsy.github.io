@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://medicopsy.com/sitemap.xml
+Sitemap: https://medicopsy.com/sitemap-index.xml
