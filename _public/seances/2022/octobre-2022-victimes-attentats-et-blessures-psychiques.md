@@ -1,6 +1,10 @@
 ## Lieu
 Hôpital Sainte-Anne, Amphithéâtre Deniker
 
+Séance en ligne aussi possible : veuillez cliquer sur [ce lien](https://us02web.zoom.us/j/89378688463?pwd=dnF2LzNYV2lHTzlkamNNL2phMzlhdz09) pour accéder au webinaire.
+- Nº du webinaire : 893 7868 8463
+- Code secret : 723024
+
 ## Horaires
 Lundi 10 octobre 2022, 9h - 17h
 
