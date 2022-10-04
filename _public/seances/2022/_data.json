@@ -38,14 +38,21 @@
     "path": "/avril-2022-dimension-clinique-psychotique",
     "date": "11 avril 2022",
     "presidence": "Pr Isabelle Jalenques"
-  }
-  ,
+  },
   "septembre-2022-soutien-medico-psychologique-dans-les-armees": {
     "layout": "_post-layout",
     "title": "Les différents temps du soutien médico-psychologique dans les armées",
     "description": "Journée thématique de la Société Médico-Psychologique consacrée à la psychiatrie militaire",
     "path": "/septembre-2022-soutien-medico-psychologique-dans-les-armees",
-    "date": "26 september 2022",
+    "date": "26 septembre 2022",
     "presidence": ""
+  },
+  "victimes-attentats-et-blessures-psychiques": {
+    "layout": "_post-layout",
+    "title": "Victimes d’attentats et blessures psychiques : Reconnaissance et reconstruction de soi",
+    "description": "Journée thématique organisée par le Dr Marc Schweitzer",
+    "path": "/victimes-attentats-et-blessures-psychiques",
+    "date": "10 octobre 2022",
+    "presidence": "Dr Marc Schweitzer"
   }
 }
