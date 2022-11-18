@@ -54,5 +54,13 @@
     "path": "/octobre-2022-victimes-attentats-et-blessures-psychiques",
     "date": "10 octobre 2022",
     "presidence": "Dr Marc Schweitzer"
+  },
+  "novembre-2022-sante-mentale-etudiants": {
+    "layout": "_post-layout",
+    "title": "Séance thématique sur BAPU/santé mentale chez les étudiants.",
+    "description": "Cette séance thématique aura lieu le lundi 28 novembre 2022, à partir de 13h30, à l’hôpital Sainte-Anne, Pavillon Jean Delay, Amphithéâtre Deniker.",
+    "path": "/novembre-2022-sante-mentale-etudiants",
+    "date": "28 novembre 2022",
+    "presidence": "Pr Isabelle Jalenques"
   }
 }
