@@ -33,9 +33,9 @@ _Discutant : Michel Botbol_
 
 Entrée libre, mais inscription obligatoire auprès de Mme J. PARANT pour les non‐membres jacqueline_parant@orange.fr
 
-*En raison d’une séance thématique chargée, ces élections auront lieu pendant le conseil d’administration prévu le matin par zoom.*
-
 ## Élections
+
+*En raison d’une séance thématique chargée, ces élections auront lieu pendant le conseil d’administration prévu le matin par zoom.*
 
 ### Élections au titre de membre titulaire
 - Dr Philippe CARRIERE (Saint‐Brieuc) – Commission : C. Hazif‐Thomas, N. Nabhan Abou et F. Petitjean, rapporteur.

@@ -7,7 +7,7 @@
 - 20 juin : L'expression "la banalité du mal" a-t-elle un sens en psychopathologie? (Elisabeth Gontier et Charles Gheorghiev)
 - **26 septembre** : [La psychiatrie militaire (Gilles Thomas), journée](/seances/2022/septembre-2022-soutien-medico-psychologique-dans-les-armees)
 - **10 octobre** : [Victimes d’attentats et blessures psychiques](/seances/2022/octobre-2022-victimes-attentats-et-blessures-psychiques)
-- 28 novembre : BAPU/Santé mentale chez les étudiants (D Tiberghien)
+- **28 novembre** : [BAPU/Santé mentale chez les étudiants (D Tiberghien)](/seances/2022/novembre-2022-sante-mentale-etudiants)
 - 12 décembre : Assemblée générale et communications libres
 
 Pour voir l'intégralité de nos séances, rendez vous [ici](/seances/).
