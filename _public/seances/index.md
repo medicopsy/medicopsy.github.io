@@ -8,7 +8,7 @@
 - [26 septembre : La psychiatrie militaire (Gilles Thomas), journée](/seances/2022/septembre-2022-soutien-medico-psychologique-dans-les-armees)
 - [10 octobre : Victimes d’attentats et blessures psychiques](/seances/2022/octobre-2022-victimes-attentats-et-blessures-psychiques)
 - [28 novembre : BAPU/Santé mentale chez les étudiants (D Tiberghien)](/seances/2022/novembre-2022-sante-mentale-etudiants)
-- 12 décembre : Assemblée générale et communications libres
+- [12 décembre : Assemblée générale et communications libres](/seances/2022/decembre-2022-communications-libres-assemblee-generale)
 
 ## Séances 2021
 - [Lundi 18 janvier : Assemblée générale et communications libres](/seances/2021/janvier-2021-communications-libres)

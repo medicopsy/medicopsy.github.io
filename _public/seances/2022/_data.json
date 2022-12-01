@@ -62,5 +62,13 @@
     "path": "/novembre-2022-sante-mentale-etudiants",
     "date": "28 novembre 2022",
     "presidence": "Pr Isabelle Jalenques"
+  },
+  "decembre-2022-communications-libres-assemblee-generale": {
+    "layout": "_post-layout",
+    "title": "Communications Libres, décembre 2022",
+    "description": "Cette séance thématique aura lieu le lundi 12 décembre 2022, à partir de 14h, à l’hôpital Sainte-Anne, Amphithéâtre Deniker.",
+    "path": "/decembre-2022-communications-libres-assemblee-generale",
+    "date": "12 décembre 2022",
+    "presidence": "Pr Isabelle Jalenques"
   }
 }
