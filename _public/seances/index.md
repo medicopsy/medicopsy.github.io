@@ -26,7 +26,7 @@
 - [27 janvier 2020 : Séance en l'honneur du Professeur Marc Bourgeois](/seances/2020/honneur-professeur-marc-bourgeois)
 - [24 février 2020 : Communications libres](/seances/2020/fevrier-2020-communications-libres)
 - **Annulé** : [23 mars 2020 : Communications libres](/seances/2020/mars-2020-communications-libres)
-- **Annulé : Lundi 20 avril**
+- **Annulé** : Lundi 20 avril
 - [18 mai 2020 : Enjeux pratiques des nouvelles technologies de santé mentale en période de confinement (Webinaire)](/seances/2020/outils-numeriques-et-psychiatrie)
 - [22 juin 2020 : Assemblée Générale (Webinaire)](/seances/2020/assemblee-generale-juin-2020)
 - [21 septembre 2020 : Communications libres](/seances/2020/septembre-2020-communications-libres)
