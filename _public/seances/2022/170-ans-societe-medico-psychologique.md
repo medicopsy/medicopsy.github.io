@@ -84,8 +84,3 @@ François PETITJEAN - Paris
 
 ### Programme
 [Lien vers le programe](https://medicopsy.com/assets/docs/programme-170-ans.pdf)
-
-### Réservation d'hôtel
-Veuillez vous rendre sur [ce lien](https://platform.revolugo.com/hotels?wid=170-ans-de-la-smp) pour réserver une chambre d'hôtel à proximité de la conférence.
-
-### Inscription à la conférence
