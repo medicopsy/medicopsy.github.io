@@ -3,7 +3,7 @@
 - 13 février : Communications Libres
 - 24 mars : Séance organisée en lien avec la Société de neurologie comportementale et coordonnée par Isabelle Jalenques et Cyril Hazif Thomas (23 et 24 mars, Institut du cerveau)
 - 17 avril : Observance thérapeutique, en visio. F Petitean
-- 22 mai
+- 22 mai : (à venir)
 - 19 juin : Jean Pierre Bouchard : Criminologie et victimologie
 
 ## Séances 2022
