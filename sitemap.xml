@@ -208,4 +208,8 @@
     <loc>https://medicopsy.com/seances/2023/janvier-2023-assemblee-generale</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://medicopsy.com/seances/2023/fevrier-2023-communications-libres</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>

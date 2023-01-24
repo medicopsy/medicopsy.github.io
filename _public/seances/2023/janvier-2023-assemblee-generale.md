@@ -9,7 +9,7 @@ Dr Yann Auxéméry
 
 ## Lieu
 - Hôpital Sainte-Anne, Amphithéâtre Morel
-- Par visioconférence - [suivre ce lien](https://us02web.zoom.us/j/88522636710?pwd=VzZwcmRPK1NLcklrN1ZUOUpMRzdMUT09#success)
+- Par visioconférence - [suivre ce lien](https://us02web.zoom.us/j/88522636710?pwd=VzZwcmRPK1NLcklrN1ZUOUpMRzdMUT09)
 
 ## Horaires
 Lundi 23 janvier 2022, 14h - 17h
