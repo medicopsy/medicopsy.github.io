@@ -1,3 +1,5 @@
+__La Société médico psychologique a célébré ses 170 ans les 12 et 13 mai 2022, dans le cadre de l'Académie nationale de médecine. On trouvera dans le Numéro 10 du Volume 180 (décembre 2022) des Annales Médico psychologiques le texte des communications qui furent présentées lors de cette séance exceptionnelle.__
+
 ### Horaires
 Jeudi 12 mai et Vendredi 13 mai 2022
 
