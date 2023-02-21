@@ -20,6 +20,7 @@
   background: url('../images/seance-placeholder-6.jpg')
   background-size: cover
   background-position-y: -250px
+  height: 290px
 }
 .bg-img
   background: url('../images/seance-placeholder-4.jpg')
@@ -37,8 +38,30 @@
 footer
   margin-top: 20px
 
+@media only screen and (max-width: 1199px) {
+    .bg-img-homepage {
+      background-position-y: -250px
+      height: 190px
+    }
+}
 @media only screen and (max-width: 992px) {
     .bg-img {
         background-position-y: 0px
+    }
+    .bg-img-homepage {
+      background-position-y: -140px
+      height: 190px
+    }
+}
+@media only screen and (max-width: 767px) {
+    .bg-img-homepage {
+      background-position-y: -60px
+      height: 190px
+    }
+}
+@media only screen and (max-width: 537px) {
+    .bg-img-homepage {
+      background-position-y: -20px
+      height: 190px
     }
 }
