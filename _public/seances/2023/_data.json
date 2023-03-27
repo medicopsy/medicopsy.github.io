@@ -14,5 +14,20 @@
     "path": "/fevrier-2023-communications-libres",
     "date": "13 février 2023",
     "presidence": "Charles Gheorghiev"
+  },
+  "mars-2023-societe-neurologie-comportementale": {
+    "layout": "_post-layout",
+    "title": "Séance organisée en lien avec la Société de neurologie comportementale",
+    "description": "Séance organisée en lien avec la Société de neurologie comportementale et coordonnée par Isabelle Jalenques et Cyril Hazif Thomas",
+    "path": "/mars-2023-societe-neurologie-comportementale",
+    "date": "24 mars 2023"
+  },
+  "avril-2023-l-observance-therapeutique": {
+    "layout": "_post-layout",
+    "title": "L’observance thérapeutique, avril 2023",
+    "description": "Séance sur l'observance therapeutique : approche sociologique, les déterminants de l'observance, la question des traitements...",
+    "path": "/avril-2023-l-observance-therapeutique",
+    "date": "17 avril 2023",
+    "presidence": "Charles Gheorghiev"
   }
 }

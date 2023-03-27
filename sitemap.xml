@@ -208,4 +208,12 @@
     <loc>https://medicopsy.com/seances/2023/fevrier-2023-communications-libres</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://medicopsy.com/seances/2023/mars-2023-societe-neurologie-comportementale</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://medicopsy.com/seances/2023/avril-2023-l-observance-therapeutique</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
