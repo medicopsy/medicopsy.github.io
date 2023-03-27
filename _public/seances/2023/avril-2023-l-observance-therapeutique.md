@@ -19,21 +19,16 @@ Lundi 17 avril 2022, 14h - 17h
 
 ## Communications
 
-1. François Petitjean (Paris) – Observance : définition, évaluation,
-recommandations.
+1. François Petitjean (Paris) – Observance : définition, évaluation, recommandations.
 
 2. Emmanuel Langlois (Bordeaux) – Approche sociologique.
 
-3. Aline Sarradon-Eck (Marseille) – Les déterminants de l&#39;observance : une
-approche anthropologique.
+3. Aline Sarradon-Eck (Marseille) – Les déterminants de l'observance : une approche anthropologique.
 
-4. Clélia Quilès (Bordeaux) – Un programme d&#39;ETP pour l&#39;initiation et le suivi
-des traitements par la Clozapine.
+4. Clélia Quilès (Bordeaux) – Un programme d'ETP pour l'initiation et le suivi des traitements par la Clozapine.
 
-5. Vincent Giovani, Eric Chartol (Fondation John Bost, La Force) – La question
-des traitements : le rôle du pair aidant au sein de l&#39;hôpital de jour de la
-Fondation John Bost.
+5. Vincent Giovani, Eric Chartol (Fondation John Bost, La Force) – La question des traitements : le rôle du pair aidant au sein de l'hôpital de jour de la Fondation John Bost.
 
-6. Philippine Rodier (Lyon) – Pair-aidante
+6. Philippine Rodier (Lyon) – Pair-aidante et pharmacienne, quelle vision de l'observance thérapeutique ?
 
 **Entrée libre, mais inscription obligatoire auprès de Mme J. PARANT pour les non-membres : jacqueline_parant@orange.fr**
