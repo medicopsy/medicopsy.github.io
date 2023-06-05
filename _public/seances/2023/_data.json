@@ -29,5 +29,21 @@
     "path": "/avril-2023-l-observance-therapeutique",
     "date": "17 avril 2023",
     "presidence": "Charles Gheorghiev"
+  },
+  "mai-2023-souffrances-psychiques-intolerables-et-fin-de-vie": {
+    "layout": "_post-layout",
+    "title": "Souffrances psychiques intolérables et fin de vie, mai 2023",
+    "description": "",
+    "path": "/mai-2023-souffrances-psychiques-intolerables-et-fin-de-vie",
+    "date": "22 mai 2023",
+    "presidence": "Charles Gheorghiev"
+  },
+  "juin-2023-criminologie-et-victimologie": {
+    "layout": "_post-layout",
+    "title": "Criminologie et victimologie, juin 2023",
+    "description": "",
+    "path": "/juin-2023-criminologie-et-victimologie",
+    "date": "19 juin 2023",
+    "presidence": "Charles Gheorghiev"
   }
 }
