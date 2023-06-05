@@ -3,8 +3,7 @@ _(Séance thématique proposée par Jean-Pierre Bouchard)_
 Le Dr Yann Auxéméry, secrétaire général, vous invite à une réunion Zoom planifiée.
 
 ## Horaires
-Lundi 19 juin 2023
-14 heures – 17 heures
+Lundi 19 juin 2023, 14h – 17h
 
 ## Lieu
 Hôpital Sainte-Anne, Amphithéâtre Deniker et par visioconférence

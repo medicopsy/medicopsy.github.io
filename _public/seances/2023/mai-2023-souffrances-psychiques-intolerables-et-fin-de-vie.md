@@ -1,8 +1,7 @@
 _(Séance thématique proposée par le vice-président, Cyril HAZIF-THOMAS)_
 
 ## Horaires
-Lundi 22 mai 2023
-10 heures – 17 heures
+- Lundi 22 mai 2023, 10h – 17h
 
 ## Lieu
 Hôpital Sainte-Anne, Amphithéâtre Deniker et par visioconférence
